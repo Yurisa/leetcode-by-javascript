@@ -9,3 +9,5 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 | ID | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](./src/two-sum/res.js)|Easy|
+|20|[Valid Parentheses](https://leetcode.com/problems/two-sum/) | [JavaScript](./src/valid-parentheses/res.js)|Easy|
+|239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/submissions/) | [JavaScript](./src/sliding-window-maximum/res.js)|Hard|
