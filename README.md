@@ -8,7 +8,8 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 | ID | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | [JavaScript](./src/two-sum/res.js)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/submissions/) | [JavaScript](./src/two-sum/res.js)|Easy|
+|15|[3Sum](https://leetcode.com/problems/3sum/submissions/) | [JavaScript](./src/3sum/res.js)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/) | [JavaScript](./src/valid-parentheses/res.js)|Easy|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/submissions/) | [JavaScript](./src/sliding-window-maximum/res.js)|Hard|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/) | [JavaScript](./src/valid-anagram/res.js)|Easy|
