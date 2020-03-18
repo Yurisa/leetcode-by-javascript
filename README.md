@@ -11,6 +11,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |1|[Two Sum](https://leetcode.com/problems/two-sum/submissions/) | [JavaScript](./src/two-sum/res.js)|Easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/submissions/) | [JavaScript](./src/3sum/res.js)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/) | [JavaScript](./src/valid-parentheses/res.js)|Easy|
+|50|[Pow(x, n)](https://leetcode.com/problems/powx-n/submissions/) | [JavaScript](./src/powx-n/res.js)|Medium|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/) | [JavaScript](./src/validate-binary-search-tree/res.js)|Medium|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/) | [JavaScript](./src/lowest-common-ancestor-of-a-binary-search-tree/res.js)|Easy|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/) | [JavaScript](./src/lowest-common-ancestor-of-a-binary-tree/res.js)|Medium|
