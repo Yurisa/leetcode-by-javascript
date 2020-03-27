@@ -5,7 +5,7 @@
  *     this.left = this.right = null;
  * }
  */
-/**
+/** 解法一
  * @param {TreeNode} root
  * @return {number}
  */
@@ -27,4 +27,14 @@ var maxDepth = function(root) {
   }
 
   return level;
+};
+
+/**
+ * 解法二
+ * @param {TreeNode} root
+ * @return {number}
+ */
+var maxDepth = function(root) {
+  if (!root) return 0;
+  return 1 + Math.max(maxDepth(root.left), maxDepth(root.right));
 };
