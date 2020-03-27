@@ -10,8 +10,8 @@
  * @return {number[][]}
  */
 var levelOrder = function(root) {
-  if(!root)  return []
-    
+  if (!root) return [];
+
   const ret = [];
 
   let level = 0;
@@ -28,6 +28,26 @@ var levelOrder = function(root) {
       node.right && queue.push(node.right);
     }
     ret.push(levelArr);
+  }
+
+  return ret;
+};
+
+var levelOrder = function(root) {
+  if (!root) return [];
+  const ret = [];
+  _dfs(root, 0);
+
+  function _dfs(root, level) {
+    if (!root) return;
+
+    if (ret.length < level + 1) {
+      ret[level] = [];
+    }
+    ret[level].push(root.val);
+
+    _dfs(root.left, level + 1);
+    _dfs(root.right, level + 1);
   }
 
   return ret;
