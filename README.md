@@ -4,14 +4,16 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 15 Solutions**:
+**Progress: 17 Solutions**:
 
 | ID | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/submissions/) | [JavaScript](./src/two-sum/res.js)|Easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/submissions/) | [JavaScript](./src/3sum/res.js)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/) | [JavaScript](./src/valid-parentheses/res.js)|Easy|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/submissions/) | [JavaScript](./src/generate-parentheses/res.js)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/submissions/) | [JavaScript](./src/powx-n/res.js)|Medium|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/submissions/) | [JavaScript](./src/sqrtx/res.js)|Easy|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/) | [JavaScript](./src/validate-binary-search-tree/res.js)|Medium|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/) | [JavaScript](./src/binary-tree-level-order-traversal/res.js)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/) | [JavaScript](./src/maximum-depth-of-binary-tree/res.js)|Easy|
@@ -24,4 +26,4 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/submissions/) | [JavaScript](./src/sliding-window-maximum/res.js)|Hard|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/) | [JavaScript](./src/valid-anagram/res.js)|Easy|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/submissions/) | [JavaScript](./src/fibonacci-number/res.js)|Easy|
-
+|704|[Binary Search](https://leetcode.com/problems/binary-search/submissions/) | [JavaScript](./src/binary-search/res.js)|Easy|
