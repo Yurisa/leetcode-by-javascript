@@ -7,7 +7,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 **Progress: 19 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
-|---| ----- | -------- | ---------- |
+|---| ----- | -------- | ---------- |  ------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/submissions/) | [JavaScript](./src/two-sum/res.js)|Easy|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/) | [JavaScript](./src/longest-substring-without-repeating-characters/res.js)|Medium|  sliding window |
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/submissions/) | [JavaScript](./src/roman-to-integer/res.js)|Easy|
