@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 19 Solutions**:
+**Progress: 23 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -29,5 +29,6 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/) | [JavaScript](./src/lowest-common-ancestor-of-a-binary-tree/res.js)|Medium|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/submissions/) | [JavaScript](./src/sliding-window-maximum/res.js)|Hard|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/) | [JavaScript](./src/valid-anagram/res.js)|Easy|
+|322| [Coin Change](https://leetcode.com/problems/coin-change/solution/) | [JavaScript](./src/coin-change/res.js) | Medium|
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/submissions/) | [JavaScript](./src/fibonacci-number/res.js)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/submissions/) | [JavaScript](./src/binary-search/res.js)|Easy|
