@@ -29,6 +29,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/) | [JavaScript](./src/lowest-common-ancestor-of-a-binary-tree/res.js)|Medium|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/submissions/) | [JavaScript](./src/sliding-window-maximum/res.js)|Hard|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/) | [JavaScript](./src/valid-anagram/res.js)|Easy|
-|322| [Coin Change](https://leetcode.com/problems/coin-change/solution/) | [JavaScript](./src/coin-change/res.js) | Medium|
+|300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/submissions/)| [JavaScript](./src/longest-increasing-subsequence/res.js) | Medium| dp |
+|322| [Coin Change](https://leetcode.com/problems/coin-change/solution/) | [JavaScript](./src/coin-change/res.js) | Medium| dp |
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/submissions/) | [JavaScript](./src/fibonacci-number/res.js)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/submissions/) | [JavaScript](./src/binary-search/res.js)|Easy|
