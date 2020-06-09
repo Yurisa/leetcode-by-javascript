@@ -25,7 +25,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) | [JavaScript](./src/best-time-to-buy-and-sell-stock/res.js)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/) | [JavaScript](./src/best-time-to-buy-and-sell-stock-ii/res.js)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/submissions/) | [JavaScript](./src/majority-element/res.js)|Easy|
-|198|[House Robber](https://leetcode.com/problems/house-robber/submissions/) | [JavaScript](./src/majority-element/res.js)| Easy | dp |
+|198|[House Robber](https://leetcode.com/problems/house-robber/submissions/) | [JavaScript](./src/house-robber/res.js)| Easy | dp |
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/submissions/) | [JavaScript](./src/implement-trie-prefix-tree/res.js)|Medium|
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/submissions/) | [JavaScript](./src/house-robber-ii/res.js)|Medium| dp |
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/) | [JavaScript](./src/lowest-common-ancestor-of-a-binary-search-tree/res.js)|Easy|
@@ -33,6 +33,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/submissions/) | [JavaScript](./src/sliding-window-maximum/res.js)|Hard|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/) | [JavaScript](./src/valid-anagram/res.js)|Easy|
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/submissions/)| [JavaScript](./src/longest-increasing-subsequence/res.js) | Medium| dp |
-|322| [Coin Change](https://leetcode.com/problems/coin-change/solution/) | [JavaScript](./src/coin-change/res.js) | Medium| dp |
+|322|[Coin Change](https://leetcode.com/problems/coin-change/solution/) | [JavaScript](./src/coin-change/res.js) | Medium| dp |
+|337|[House Robber III](https://leetcode.com/problems/house-robber-iii/submissions/) |  [JavaScript](./src/house-robber-iii/res.js) | Medium | dp |
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/submissions/) | [JavaScript](./src/fibonacci-number/res.js)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/submissions/) | [JavaScript](./src/binary-search/res.js)|Easy|
