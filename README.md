@@ -20,6 +20,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/) | [JavaScript](./src/maximum-subarray/res.js) |Easy | dp |
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/submissions/) | [JavaScript](./src/unique-paths/res.js) | Medium | dp |
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/submissions/) | [JavaScript](./src/unique-paths-ii/res.js) | Medium | dp |
+|64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/submissions/) | [JavaScript](./src//minimum-path-sum/res.js) | Medium | dp |
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/submissions/) | [JavaScript](./src/sqrtx/res.js)|Easy|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/) | [JavaScript](./src/validate-binary-search-tree/res.js)|Medium|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/) | [JavaScript](./src/binary-tree-level-order-traversal/res.js)|Medium|
