@@ -41,3 +41,4 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/submissions/) |  [JavaScript](./src/house-robber-iii/res.js) | Medium | dp |
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/submissions/) | [JavaScript](./src/fibonacci-number/res.js)|Easy|
 |704|[Binary Search](https://leetcode.com/problems/binary-search/submissions/) | [JavaScript](./src/binary-search/res.js)|Easy|
+|1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/submissions/) | [JavaScript](./src/relative-sort-array/res.js)|Easy|
