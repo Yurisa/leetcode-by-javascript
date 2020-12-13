@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 39 Solutions**:
+**Progress: 41 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -14,6 +14,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/submissions/) | [JavaScript](./src/roman-to-integer/res.js)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/submissions/) | [JavaScript](./src/longest-common-prefix/res.js)|Easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/submissions/) | [JavaScript](./src/3sum/res.js)|Medium|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/) | [JavaScript](./src/remove-nth-node-from-end-of-list/submissions/res.js)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/) | [JavaScript](./src/valid-parentheses/res.js)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) | [JavaScript](./src/merge-two-sorted-lists/res.js)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/submissions/) | [JavaScript](./src/generate-parentheses/res.js)|Medium|
