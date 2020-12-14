@@ -19,6 +19,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) | [JavaScript](./src/merge-two-sorted-lists/res.js)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/submissions/) | [JavaScript](./src/generate-parentheses/res.js)|Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/) | [JavaScript](./src/find-first-and-last-position-of-element-in-sorted-array/submissions/res.js)|Medium|
+|46|[Permutations](https://leetcode.com/problems/permutations/submissions/) | [JavaScript](./src/permutations/res.js)|Medium| back |
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/submissions/) | [JavaScript](./src/powx-n/res.js)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/) | [JavaScript](./src/maximum-subarray/res.js) |Easy | dp |
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/submissions/) | [JavaScript](./src/unique-paths/res.js) | Medium | dp |
