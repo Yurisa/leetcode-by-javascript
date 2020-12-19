@@ -51,7 +51,8 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |322|[Coin Change](https://leetcode.com/problems/coin-change/solution/) | [JavaScript](./src/coin-change/res.js) | Medium| dp |
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/submissions/) |  [JavaScript](./src/house-robber-iii/res.js) | Medium | dp |
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/submissions/) |  [JavaScript](./src/reverse-string/res.js) | Easy |
-|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string//solution/) | [JavaScript](./src/find-all-anagrams-in-a-string//res.js) | Medium| sliding window |
+|435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/solution/) | [JavaScript](./src/non-overlapping-intervals/res.js) | Medium| greedy |
+|438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/solution/) | [JavaScript](./src/find-all-anagrams-in-a-string/res.js) | Medium| sliding window |
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/submissions/) |  [JavaScript](./src/assign-cookies/res.js) | Easy | greedy |
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/submissions/) | [JavaScript](./src/fibonacci-number/res.js)|Easy|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/submissions/) | [JavaScript](./src/permutation-in-string/res.js)|Medium| sliding window |
