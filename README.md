@@ -33,7 +33,9 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |78|[Subsets](https://leetcode.com/problems/subsets/submissions/) | [JavaScript](./src//subsets/res.js) | Medium | back |
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/) | [JavaScript](./src/validate-binary-search-tree/res.js)|Medium|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/) | [JavaScript](./src/binary-tree-level-order-traversal/res.js)|Medium|
-|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/) | [JavaScript](./src/maximum-depth-of-binary-tree/res.js)|Easy|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/) | [JavaScript](./src/maximum-depth-of-binary-tree/res.js)|Easy| binary tree |
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/) | [JavaScript](./src/construct-binary-tree-from-preorder-and-inorder-traversal/res.js)|Medium| binary tree |
+|106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/submissions/) | [JavaScript](./src/construct-binary-tree-from-inorder-and-postorder-traversal/res.js)|Medium| binary tree |
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/) | [JavaScript](./src/minimum-depth-of-binary-tree/res.js)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) | [JavaScript](./src/best-time-to-buy-and-sell-stock/res.js)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/) | [JavaScript](./src/best-time-to-buy-and-sell-stock-ii/res.js)|Easy|
