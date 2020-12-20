@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 47 Solutions**:
+**Progress: 54 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -19,9 +19,11 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) | [JavaScript](./src/merge-two-sorted-lists/res.js)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/submissions/) | [JavaScript](./src/generate-parentheses/res.js)|Medium|
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/) | [JavaScript](./src/find-first-and-last-position-of-element-in-sorted-array/submissions/res.js)|Medium|
+|45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/submissions/) | [JavaScript](./src/jump-game-ii/res.js) | Hard | greedy/dp |
 |46|[Permutations](https://leetcode.com/problems/permutations/submissions/) | [JavaScript](./src/permutations/res.js)|Medium| back |
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/submissions/) | [JavaScript](./src/powx-n/res.js)|Medium|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/) | [JavaScript](./src/maximum-subarray/res.js) |Easy | dp |
+|55|[Jump Game](https://leetcode.com/problems/jump-game/submissions/) | [JavaScript](./src/jump-game/res.js) | Medium | greedy/dp |
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/submissions/) | [JavaScript](./src/unique-paths/res.js) | Medium | dp |
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/submissions/) | [JavaScript](./src/unique-paths-ii/res.js) | Medium | dp |
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/submissions/) | [JavaScript](./src//minimum-path-sum/res.js) | Medium | dp |
@@ -35,6 +37,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/) | [JavaScript](./src/minimum-depth-of-binary-tree/res.js)|Easy|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) | [JavaScript](./src/best-time-to-buy-and-sell-stock/res.js)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/) | [JavaScript](./src/best-time-to-buy-and-sell-stock-ii/res.js)|Easy|
+|124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/submissions/) | [JavaScript](./src/binary-tree-maximum-path-sum/res.js)| Hard | binary tree |
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/) | [JavaScript](./src/linked-list-cycle/res.js)|Easy|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii//submissions/) | [JavaScript](./src/linked-list-cycle-ii//res.js)|Medium|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/) | [JavaScript](./src/two-sum-ii-input-array-is-sorted/res.js)|Easy|
