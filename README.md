@@ -31,6 +31,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/submissions/) | [JavaScript](./src/sort-colors/res.js) | Medium | sort |
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/submissions/) | [JavaScript](./src/minimum-window-substring/res.js) | Hard | sliding window |
 |78|[Subsets](https://leetcode.com/problems/subsets/submissions/) | [JavaScript](./src//subsets/res.js) | Medium | back |
+|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/submissions/) | [JavaScript](./src/reverse-linked-list-ii/res.js)|Medium| linkedList |
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/) | [JavaScript](./src/validate-binary-search-tree/res.js)|Medium|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/) | [JavaScript](./src/binary-tree-level-order-traversal/res.js)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/) | [JavaScript](./src/maximum-depth-of-binary-tree/res.js)|Easy| binary tree |
@@ -45,6 +46,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/) | [JavaScript](./src/two-sum-ii-input-array-is-sorted/res.js)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/submissions/) | [JavaScript](./src/majority-element/res.js)|Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/submissions/) | [JavaScript](./src/house-robber/res.js)| Easy | dp |
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/) | [JavaScript](./src/reverse-linked-list/res.js)| Easy | linkedlist |
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/submissions/) | [JavaScript](./src/implement-trie-prefix-tree/res.js)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/) | [JavaScript](./src/minimum-size-subarray-sum/res.js)| Medium| sliding window |
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/submissions/) | [JavaScript](./src/house-robber-ii/res.js)|Medium| dp |
