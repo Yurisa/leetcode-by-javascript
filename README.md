@@ -72,3 +72,4 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |704|[Binary Search](https://leetcode.com/problems/binary-search/submissions/) | [JavaScript](./src/binary-search/res.js)|Easy|
 |887|[Super Egg Drop](https://leetcode.com/problems/super-egg-drop/submissions/) | [JavaScript](./src/super-egg-drop/res.js)|Hard|
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/submissions/) | [JavaScript](./src/relative-sort-array/res.js)|Easy|
+|1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/) | [JavaScript](./src/longest-common-subsequence/res.js)| Medium |dp|
