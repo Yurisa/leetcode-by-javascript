@@ -47,6 +47,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/) | [JavaScript](./src/two-sum-ii-input-array-is-sorted/res.js)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/submissions/) | [JavaScript](./src/majority-element/res.js)|Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/submissions/) | [JavaScript](./src/house-robber/res.js)| Easy | dp |
+|204|[Count Primes](https://leetcode.com/problems/count-primes/submissions/) | [JavaScript](./src/count-primes/res.js)| Easy | 
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/) | [JavaScript](./src/reverse-linked-list/res.js)| Easy | linkedlist |
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/submissions/) | [JavaScript](./src/implement-trie-prefix-tree/res.js)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/) | [JavaScript](./src/minimum-size-subarray-sum/res.js)| Medium| sliding window |
