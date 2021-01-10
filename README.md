@@ -30,6 +30,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/submissions/) | [JavaScript](./src/unique-paths-ii/res.js) | Medium | dp |
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/submissions/) | [JavaScript](./src//minimum-path-sum/res.js) | Medium | dp |
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/submissions/) | [JavaScript](./src/sqrtx/res.js)|Easy|
+|72|[Edit Distance](https://leetcode.com/problems/edit-distance/submissions/) | [JavaScript](./src/edit-distance/res.js) | Hard | dp |
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/submissions/) | [JavaScript](./src/sort-colors/res.js) | Medium | sort |
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/submissions/) | [JavaScript](./src/minimum-window-substring/res.js) | Hard | sliding window |
 |78|[Subsets](https://leetcode.com/problems/subsets/submissions/) | [JavaScript](./src//subsets/res.js) | Medium | back |
