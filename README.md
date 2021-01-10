@@ -23,6 +23,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/submissions/) | [JavaScript](./src/jump-game-ii/res.js) | Hard | greedy/dp |
 |46|[Permutations](https://leetcode.com/problems/permutations/submissions/) | [JavaScript](./src/permutations/res.js)|Medium| back |
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/submissions/) | [JavaScript](./src/powx-n/res.js)|Medium|
+|51|[N-Queens](https://leetcode.com/problems/n-queens/submissions/)| [JavaScript](./src/n-queens/res.js)|Hard| backtrack|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/) | [JavaScript](./src/maximum-subarray/res.js) |Easy | dp |
 |55|[Jump Game](https://leetcode.com/problems/jump-game/submissions/) | [JavaScript](./src/jump-game/res.js) | Medium | greedy/dp |
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/submissions/) | [JavaScript](./src/unique-paths/res.js) | Medium | dp |
