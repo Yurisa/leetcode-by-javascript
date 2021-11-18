@@ -19,6 +19,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) | [JavaScript](./src/merge-two-sorted-lists/res.js)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/submissions/) | [JavaScript](./src/generate-parentheses/res.js)|Medium|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/) | [JavaScript](./src/reverse-nodes-in-k-group/res.js)|Hard| linkedList |
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/) | [JavaScript](./src/remove-duplicates-from-sorted-array/res.js)| easy | array |
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/) | [JavaScript](./src/find-first-and-last-position-of-element-in-sorted-array/submissions/res.js)|Medium|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/submissions/) | [JavaScript](./src/jump-game-ii/res.js) | Hard | greedy/dp |
 |46|[Permutations](https://leetcode.com/problems/permutations/submissions/) | [JavaScript](./src/permutations/res.js)|Medium| back |
