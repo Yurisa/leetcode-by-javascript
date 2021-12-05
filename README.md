@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 71 Solutions**:
+**Progress: 72 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -23,6 +23,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/) | [JavaScript](./src/remove-duplicates-from-sorted-array/res.js)| Easy | array |
 |27|[Remove Element](https://leetcode.com/problems/remove-element/submissions/) | [JavaScript](./src/remove-element/res.js)| Easy | array |
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/) | [JavaScript](./src/find-first-and-last-position-of-element-in-sorted-array/submissions/res.js)|Medium|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/submissions/) | [JavaScript](./src/combination-sum/submissions/res.js)|Medium| backtrack |
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/submissions/) | [JavaScript](./src/jump-game-ii/res.js) | Hard | greedy/dp |
 |46|[Permutations](https://leetcode.com/problems/permutations/submissions/) | [JavaScript](./src/permutations/res.js)|Medium| back |
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/submissions/) | [JavaScript](./src/powx-n/res.js)|Medium|
