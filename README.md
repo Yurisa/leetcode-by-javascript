@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 73 Solutions**:
+**Progress: 74 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -38,6 +38,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/submissions/) | [JavaScript](./src/edit-distance/res.js) | Hard | dp |
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/submissions/) | [JavaScript](./src/sort-colors/res.js) | Medium | sort |
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/submissions/) | [JavaScript](./src/minimum-window-substring/res.js) | Hard | sliding window |
+|77|[Combinations](https://leetcode.com/problems/combinations/submissions/) | [JavaScript](./src/combinations/res.js) | Medium | backtrack |
 |78|[Subsets](https://leetcode.com/problems/subsets/submissions/) | [JavaScript](./src//subsets/res.js) | Medium | back |
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/submissions/) | [JavaScript](./src/reverse-linked-list-ii/res.js)|Medium| linkedList |
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/) | [JavaScript](./src/validate-binary-search-tree/res.js)|Medium|
