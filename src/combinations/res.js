@@ -9,6 +9,7 @@ var combine = function (n, k) {
   function backtrack(index, arr) {
     if (arr.length == k) {
       result.push(arr);
+      return 
     }
     for (let i = index + 1; i <= n; i++) {
       backtrack(i, arr.concat(i));

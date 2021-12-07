@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 74 Solutions**:
+**Progress: 75 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -26,7 +26,8 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/submissions/) | [JavaScript](./src/combination-sum/submissions/res.js)|Medium| backtrack |
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/submissions/) | [JavaScript](./src/combination-sum-ii/res.js)|Medium| backtrack |
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/submissions/) | [JavaScript](./src/jump-game-ii/res.js) | Hard | greedy/dp |
-|46|[Permutations](https://leetcode.com/problems/permutations/submissions/) | [JavaScript](./src/permutations/res.js)|Medium| back |
+|46|[Permutations](https://leetcode.com/problems/permutations/submissions/) | [JavaScript](./src/permutations/res.js)|Medium| backtrack |
+|47|[Permutations II](https://leetcode.com/problems/permutations-ii/submissions/) | [JavaScript](./src/permutations-ii/res.js)|Medium| backtrack |
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/submissions/) | [JavaScript](./src/powx-n/res.js)|Medium|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/submissions/)| [JavaScript](./src/n-queens/res.js)|Hard| backtrack|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/) | [JavaScript](./src/maximum-subarray/res.js) |Easy | dp |
