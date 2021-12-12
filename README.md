@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 81 Solutions**:
+**Progress: 83 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -51,6 +51,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/) | [JavaScript](./src/construct-binary-tree-from-preorder-and-inorder-traversal/res.js)|Medium| binary tree |
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/submissions/) | [JavaScript](./src/construct-binary-tree-from-inorder-and-postorder-traversal/res.js)|Medium| binary tree |
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/) | [JavaScript](./src/minimum-depth-of-binary-tree/res.js)|Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/submissions/) | [JavaScript](./src/path-sum/res.js)|Easy|binary tree|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/submissions/) | [JavaScript](./src/path-sum-ii/res.js)|Medium|backtrack|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) | [JavaScript](./src/best-time-to-buy-and-sell-stock/res.js)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/) | [JavaScript](./src/best-time-to-buy-and-sell-stock-ii/res.js)|Easy|
