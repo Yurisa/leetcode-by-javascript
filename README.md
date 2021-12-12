@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 78 Solutions**:
+**Progress: 80 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -56,7 +56,8 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/submissions/) | [JavaScript](./src/palindrome-partitioning/res.js)| Medium |  backtack |
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/submissions/) | [JavaScript](./src/word-break-ii/res.js)|Hard| backtrack |
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/) | [JavaScript](./src/linked-list-cycle/res.js)|Easy|
-|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii//submissions/) | [JavaScript](./src/linked-list-cycle-ii//res.js)|Medium|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii//submissions/) | [JavaScript](./src/linked-list-cycle-ii/res.js)|Medium|
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/) | [JavaScript](./src/find-minimum-in-rotated-sorted-array/res.js)|Medium|binary search|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/) | [JavaScript](./src/two-sum-ii-input-array-is-sorted/res.js)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/submissions/) | [JavaScript](./src/majority-element/res.js)|Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/submissions/) | [JavaScript](./src/house-robber/res.js)| Easy | dp |
