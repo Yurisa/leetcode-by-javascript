@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 84 Solutions**:
+**Progress: 85 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -22,8 +22,8 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/) | [JavaScript](./src/reverse-nodes-in-k-group/res.js)|Hard| linkedList |
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/) | [JavaScript](./src/remove-duplicates-from-sorted-array/res.js)| Easy | array |
 |27|[Remove Element](https://leetcode.com/problems/remove-element/submissions/) | [JavaScript](./src/remove-element/res.js)| Easy | array |
-|33 * |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/) | [JavaScript](./src/search-in-rotated-sorted-array/submissions/res.js)|Medium| binary search |
-|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/) | [JavaScript](./src/find-first-and-last-position-of-element-in-sorted-array/submissions/res.js)|Medium|
+|33 * |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/) | [JavaScript](./src/search-in-rotated-sorted-array/res.js)|Medium| binary search |
+|34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/) | [JavaScript](./src/find-first-and-last-position-of-element-in-sorted-array/res.js)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/submissions/) | [JavaScript](./src/combination-sum/submissions/res.js)|Medium| backtrack |
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/submissions/) | [JavaScript](./src/combination-sum-ii/res.js)|Medium| backtrack |
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/submissions/) | [JavaScript](./src/jump-game-ii/res.js) | Hard | greedy/dp |
@@ -54,6 +54,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/) | [JavaScript](./src/minimum-depth-of-binary-tree/res.js)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/submissions/) | [JavaScript](./src/path-sum/res.js)|Easy|binary tree|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/submissions/) | [JavaScript](./src/path-sum-ii/res.js)|Medium|backtrack|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/submissions/) | [JavaScript](./src/flatten-binary-tree-to-linked-list/res.js)|Medium|binary tree|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) | [JavaScript](./src/best-time-to-buy-and-sell-stock/res.js)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/) | [JavaScript](./src/best-time-to-buy-and-sell-stock-ii/res.js)|Easy|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/submissions/) | [JavaScript](./src/binary-tree-maximum-path-sum/res.js)| Hard | binary tree |
