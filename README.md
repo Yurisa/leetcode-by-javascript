@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 85 Solutions**:
+**Progress: 90 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -29,9 +29,11 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/submissions/) | [JavaScript](./src/jump-game-ii/res.js) | Hard | greedy/dp |
 |46|[Permutations](https://leetcode.com/problems/permutations/submissions/) | [JavaScript](./src/permutations/res.js)|Medium| backtrack |
 |47|[Permutations II](https://leetcode.com/problems/permutations-ii/submissions/) | [JavaScript](./src/permutations-ii/res.js)|Medium| backtrack |
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/submissions/) | [JavaScript](./src/rotate-image/res.js)|Medium|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/submissions/) | [JavaScript](./src/powx-n/res.js)|Medium|
 |51|[N-Queens](https://leetcode.com/problems/n-queens/submissions/)| [JavaScript](./src/n-queens/res.js)|Hard| backtrack|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/) | [JavaScript](./src/maximum-subarray/res.js) |Easy | dp |
+|54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/submissions/) | [JavaScript](./src/spiral-matrix/res.js) |Medium |
 |55|[Jump Game](https://leetcode.com/problems/jump-game/submissions/) | [JavaScript](./src/jump-game/res.js) | Medium | greedy/dp |
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/submissions/) | [JavaScript](./src/unique-paths/res.js) | Medium | dp |
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/submissions/) | [JavaScript](./src/unique-paths-ii/res.js) | Medium | dp |
@@ -41,13 +43,15 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/submissions/) | [JavaScript](./src/sort-colors/res.js) | Medium | sort |
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/submissions/) | [JavaScript](./src/minimum-window-substring/res.js) | Hard | sliding window |
 |77|[Combinations](https://leetcode.com/problems/combinations/submissions/) | [JavaScript](./src/combinations/res.js) | Medium | backtrack |
-|78|[Subsets](https://leetcode.com/problems/subsets/submissions/) | [JavaScript](./src//subsets/res.js) | Medium | back |
+|78|[Subsets](https://leetcode.com/problems/subsets/submissions/) | [JavaScript](./src/subsets/res.js) | Medium | backtrack |
+|90|[Subsets II](https://leetcode.com/problems/subsets-ii/submissions/) | [JavaScript](./src/subsets-ii/res.js) | Medium | backtrack |
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/submissions/) | [JavaScript](./src/reverse-linked-list-ii/res.js)|Medium| linkedList |
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/) | [JavaScript](./src/binary-tree-inorder-traversal/res.js)| Easy| binary tree |
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/) | [JavaScript](./src/validate-binary-search-tree/res.js)|Medium|
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/submissions/) | [JavaScript](./src/recover-binary-search-tree/res.js)|Medium| binary tree |
 |100|[Same Tree](https://leetcode.com/problems/same-tree/submissions/) | [JavaScript](./src/same-tree/res.js)|Easy| binary tree |
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/) | [JavaScript](./src/binary-tree-level-order-traversal/res.js)|Medium|
+|103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/) | [JavaScript](./src/binary-tree-zigzag-level-order-traversal/res.js)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/) | [JavaScript](./src/maximum-depth-of-binary-tree/res.js)|Easy| binary tree |
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/submissions/) | [JavaScript](./src/construct-binary-tree-from-preorder-and-inorder-traversal/res.js)|Medium| binary tree |
 |106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/submissions/) | [JavaScript](./src/construct-binary-tree-from-inorder-and-postorder-traversal/res.js)|Medium| binary tree |
@@ -66,6 +70,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/) | [JavaScript](./src/two-sum-ii-input-array-is-sorted/res.js)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/submissions/) | [JavaScript](./src/majority-element/res.js)|Easy|
 |198|[House Robber](https://leetcode.com/problems/house-robber/submissions/) | [JavaScript](./src/house-robber/res.js)| Easy | dp |
+|200|[Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/) | [JavaScript](./src/number-of-islands/res.js)| Medium | 
 |204|[Count Primes](https://leetcode.com/problems/count-primes/submissions/) | [JavaScript](./src/count-primes/res.js)| Easy | 
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/) | [JavaScript](./src/reverse-linked-list/res.js)| Easy | linkedlist |
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/submissions/) | [JavaScript](./src/implement-trie-prefix-tree/res.js)|Medium|
