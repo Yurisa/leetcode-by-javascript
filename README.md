@@ -4,13 +4,14 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 90 Solutions**:
+**Progress: 92 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/submissions/) | [JavaScript](./src/two-sum/res.js)|Easy|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/) | [JavaScript](./src/longest-substring-without-repeating-characters/res.js)|Medium|  sliding window |
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/submissions/)| [JavaScript](./src/longest-palindromic-substring/res.js)| Medium| dp |
+|6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/submissions/)| [JavaScript](./src/zigzag-conversion/res.js)| Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/submissions/) | [JavaScript](./src/roman-to-integer/res.js)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/submissions/) | [JavaScript](./src/longest-common-prefix/res.js)|Easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/submissions/) | [JavaScript](./src/3sum/res.js)|Medium|
@@ -93,6 +94,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/submissions/) | [JavaScript](./src/fibonacci-number/res.js)|Easy|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/submissions/) | [JavaScript](./src/permutation-in-string/res.js)|Medium| sliding window |
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/submissions/) | [JavaScript](./src/maximum-binary-tree/res.js)| Medium| binary tree |
+|700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/) | [JavaScript](./src/search-in-a-binary-search-tree/res.js)|Easy| BST |
 |704|[Binary Search](https://leetcode.com/problems/binary-search/submissions/) | [JavaScript](./src/binary-search/res.js)|Easy|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/submissions/) | [JavaScript](./src/koko-eating-bananas/res.js)|Medium| binary search |
 |887|[Super Egg Drop](https://leetcode.com/problems/super-egg-drop/submissions/) | [JavaScript](./src/super-egg-drop/res.js)|Hard|
