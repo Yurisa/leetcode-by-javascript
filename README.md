@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 100 Solutions**:
+**Progress: 102 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -91,6 +91,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |322|[Coin Change](https://leetcode.com/problems/coin-change/solution/) | [JavaScript](./src/coin-change/res.js) | Medium| dp |
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/submissions/) |  [JavaScript](./src/house-robber-iii/res.js) | Medium | dp |
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/submissions/) |  [JavaScript](./src/reverse-string/res.js) | Easy |
+|370|[Range Addition](https://leetcode.com/problems/range-addition/submissions/) |  [JavaScript](./src/range-addition/res.js) | Medium | range |
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/solution/) | [JavaScript](./src/non-overlapping-intervals/res.js) | Medium| greedy |
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/solution/) | [JavaScript](./src/find-all-anagrams-in-a-string/res.js) | Medium| sliding window |
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/solution/) | [JavaScript](./src/delete-node-in-a-bst/res.js) | Medium| BST |
@@ -106,5 +107,6 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/submissions/) | [JavaScript](./src/koko-eating-bananas/res.js)|Medium| binary search |
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/submissions/) | [JavaScript](./src/middle-of-the-linked-list/res.js)|Easy| linkedlist |
 |887|[Super Egg Drop](https://leetcode.com/problems/super-egg-drop/submissions/) | [JavaScript](./src/super-egg-drop/res.js)|Hard|
+|1109|[Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/submissions/) | [JavaScript](./src/corporate-flight-bookings/res.js)|Medium|range|
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/submissions/) | [JavaScript](./src/relative-sort-array/res.js)|Easy|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/) | [JavaScript](./src/longest-common-subsequence/res.js)| Medium |dp|
