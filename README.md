@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 102 Solutions**:
+**Progress: 105 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -48,9 +48,12 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/submissions/) | [JavaScript](./src/subsets-ii/res.js) | Medium | backtrack |
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/submissions/) | [JavaScript](./src/reverse-linked-list-ii/res.js)|Medium| linkedList |
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/) | [JavaScript](./src/binary-tree-inorder-traversal/res.js)| Easy| binary tree |
+|95|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/submissions/) | [JavaScript](./src/unique-binary-search-trees-ii/res.js)|Medium| binary tree |
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/submissions/) | [JavaScript](./src/unique-binary-search-trees/res.js)|Medium| binary tree |
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/) | [JavaScript](./src/validate-binary-search-tree/res.js)|Medium| BST |
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/submissions/) | [JavaScript](./src/recover-binary-search-tree/res.js)|Medium| binary tree |
 |100|[Same Tree](https://leetcode.com/problems/same-tree/submissions/) | [JavaScript](./src/same-tree/res.js)|Easy| binary tree |
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/submissions/) | [JavaScript](./src/symmetric-tree/res.js)|Easy| binary tree |
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/) | [JavaScript](./src/binary-tree-level-order-traversal/res.js)|Medium|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/) | [JavaScript](./src/binary-tree-zigzag-level-order-traversal/res.js)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/) | [JavaScript](./src/maximum-depth-of-binary-tree/res.js)|Easy| binary tree |
