@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 111 Solutions**:
+**Progress: 112 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -72,6 +72,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) | [JavaScript](./src/best-time-to-buy-and-sell-stock/res.js)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/) | [JavaScript](./src/best-time-to-buy-and-sell-stock-ii/res.js)|Easy|
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/submissions/) | [JavaScript](./src/binary-tree-maximum-path-sum/res.js)| Hard | binary tree |
+|129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/) | [JavaScript](./src/sum-root-to-leaf-numbers/res.js)| Medium | binary tree |
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/submissions/) | [JavaScript](./src/palindrome-partitioning/res.js)| Medium |  backtack |
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/submissions/) | [JavaScript](./src/word-break-ii/res.js)|Hard| backtrack |
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/) | [JavaScript](./src/linked-list-cycle/res.js)|Easy|
