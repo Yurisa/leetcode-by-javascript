@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 110 Solutions**:
+**Progress: 111 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -67,6 +67,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |112|[Path Sum](https://leetcode.com/problems/path-sum/submissions/) | [JavaScript](./src/path-sum/res.js)|Easy|binary tree|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/submissions/) | [JavaScript](./src/path-sum-ii/res.js)|Medium|backtrack|
 |114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/submissions/) | [JavaScript](./src/flatten-binary-tree-to-linked-list/res.js)|Medium|binary tree|
+|116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/submissions/) | [JavaScript](./src/populating-next-right-pointers-in-each-node/res.js)|Medium|binary tree|
 |117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/submissions/) | [JavaScript](./src/populating-next-right-pointers-in-each-node-ii/res.js)|Medium|binary tree|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/) | [JavaScript](./src/best-time-to-buy-and-sell-stock/res.js)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/) | [JavaScript](./src/best-time-to-buy-and-sell-stock-ii/res.js)|Easy|
