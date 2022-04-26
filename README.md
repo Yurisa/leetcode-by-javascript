@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 108 Solutions**:
+**Progress: 109 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -62,6 +62,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/submissions/) | [JavaScript](./src/binary-tree-level-order-traversal-ii/res.js)|Medium| binary tree |
 |108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/submissions/) | [JavaScript](./src/convert-sorted-array-to-binary-search-tree/res.js)|Easy| binary tree |
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/submissions/) | [JavaScript](./src/convert-sorted-list-to-binary-search-tree/res.js)|Medium| binary tree |
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/submissions/) | [JavaScript](./src/balanced-binary-tree/res.js)| Easy | binary tree |
 |111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/submissions/) | [JavaScript](./src/minimum-depth-of-binary-tree/res.js)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/submissions/) | [JavaScript](./src/path-sum/res.js)|Easy|binary tree|
 |113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/submissions/) | [JavaScript](./src/path-sum-ii/res.js)|Medium|backtrack|
