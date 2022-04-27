@@ -76,7 +76,8 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/submissions/) | [JavaScript](./src/palindrome-partitioning/res.js)| Medium |  backtack |
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/submissions/) | [JavaScript](./src/word-break-ii/res.js)|Hard| backtrack |
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/) | [JavaScript](./src/linked-list-cycle/res.js)|Easy|
-|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii//submissions/) | [JavaScript](./src/linked-list-cycle-ii/res.js)|Medium|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/submissions/) | [JavaScript](./src/linked-list-cycle-ii/res.js)|Medium|
+|145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/) | [JavaScript](./src/binary-tree-postorder-traversal/res.js)|Easy| binary tree |
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/submissions/) | [JavaScript](./src/reverse-words-in-a-string/res.js)|Medium|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/) | [JavaScript](./src/find-minimum-in-rotated-sorted-array/res.js)|Medium|binary search|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/) | [JavaScript](./src/intersection-of-two-linked-lists/res.js)|Easy|linked list|
