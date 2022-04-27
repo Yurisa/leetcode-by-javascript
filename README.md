@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 112 Solutions**:
+**Progress: 114 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -77,6 +77,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/submissions/) | [JavaScript](./src/word-break-ii/res.js)|Hard| backtrack |
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/) | [JavaScript](./src/linked-list-cycle/res.js)|Easy|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/submissions/) | [JavaScript](./src/linked-list-cycle-ii/res.js)|Medium|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/submissions/) | [JavaScript](./src/binary-tree-preorder-traversal/res.js)|Easy| binary tree |
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/) | [JavaScript](./src/binary-tree-postorder-traversal/res.js)|Easy| binary tree |
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/submissions/) | [JavaScript](./src/reverse-words-in-a-string/res.js)|Medium|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/) | [JavaScript](./src/find-minimum-in-rotated-sorted-array/res.js)|Medium|binary search|
