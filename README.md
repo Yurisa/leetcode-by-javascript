@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 116 Solutions**:
+**Progress: 117 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -94,6 +94,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/submissions/) | [JavaScript](./src/house-robber-ii/res.js)|Medium| dp |
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/submissions/) | [JavaScript](./src/combination-sum-iii/res.js)|Medium| backtrack |
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/submissions/) | [JavaScript](./src/count-complete-tree-nodes/res.js)|Medium| binary tree |
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/submissions/) | [JavaScript](./src/invert-binary-tree/res.js)|Easy| binary tree |
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/submissions/) | [JavaScript](./src/palindrome-linked-list/res.js)|Easy| linkedList |
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/) | [JavaScript](./src/lowest-common-ancestor-of-a-binary-search-tree/res.js)|Easy|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/) | [JavaScript](./src/lowest-common-ancestor-of-a-binary-tree/res.js)|Medium|
