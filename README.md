@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 119 Solutions**:
+**Progress: 120 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -84,6 +84,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/) | [JavaScript](./src/intersection-of-two-linked-lists/res.js)|Easy|linked list|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/) | [JavaScript](./src/two-sum-ii-input-array-is-sorted/res.js)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/submissions/) | [JavaScript](./src/majority-element/res.js)|Easy|
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/submissions/) | [JavaScript](./src/binary-search-tree-iterator/res.js)|Medium|binary tree|
 |198|[House Robber](https://leetcode.com/problems/house-robber/submissions/) | [JavaScript](./src/house-robber/res.js)| Easy | dp |
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/submissions/) | [JavaScript](./src/binary-tree-right-side-view/res.js)| Medium | binary tree |
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/) | [JavaScript](./src/number-of-islands/res.js)| Medium | 
