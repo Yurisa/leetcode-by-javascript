@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 131 Solutions**:
+**Progress: 132 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -128,6 +128,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/submissions/) | [JavaScript](./src/convert-bst-to-greater-tree/res.js)|Medium| binary tree |
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/submissions/) | [JavaScript](./src/diameter-of-binary-tree/res.js)|Easy| binary tree |
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/submissions/) | [JavaScript](./src/subarray-sum-equals-k/res.js)|Medium| range |
+|563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/submissions/) | [JavaScript](./src/binary-tree-tilt/res.js)|Easy| binary tree |
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/submissions/) | [JavaScript](./src/permutation-in-string/res.js)|Medium| sliding window |
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/submissions/) | [JavaScript](./src/maximum-binary-tree/res.js)| Medium| binary tree |
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/) | [JavaScript](./src/search-in-a-binary-search-tree/res.js)|Easy| BST |
