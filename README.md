@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 130 Solutions**:
+**Progress: 131 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -126,6 +126,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/submissions/) | [JavaScript](./src/find-largest-value-in-each-tree-row/res.js)|Medium| binary tree |
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/submissions/) | [JavaScript](./src/minimum-absolute-difference-in-bst/res.js)|Easy| binary tree |
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/submissions/) | [JavaScript](./src/convert-bst-to-greater-tree/res.js)|Medium| binary tree |
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/submissions/) | [JavaScript](./src/diameter-of-binary-tree/res.js)|Easy| binary tree |
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/submissions/) | [JavaScript](./src/subarray-sum-equals-k/res.js)|Medium| range |
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/submissions/) | [JavaScript](./src/permutation-in-string/res.js)|Medium| sliding window |
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/submissions/) | [JavaScript](./src/maximum-binary-tree/res.js)| Medium| binary tree |
