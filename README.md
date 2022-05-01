@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 133 Solutions**:
+**Progress: 138 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -131,6 +131,11 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/submissions/) | [JavaScript](./src/binary-tree-tilt/res.js)|Easy| binary tree |
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/submissions/) | [JavaScript](./src/permutation-in-string/res.js)|Medium| sliding window |
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/submissions/) | [JavaScript](./src/subtree-of-another-tree/res.js)|Easy| binary tree |
+|606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/submissions/) | [JavaScript](./src/construct-string-from-binary-tree/res.js)|Easy| binary tree |
+|617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/submissions/) | [JavaScript](./src/merge-two-binary-trees/res.js)|Easy| binary tree |
+|623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/submissions/) | [JavaScript](./src/add-one-row-to-tree/res.js)|Medium| binary tree |
+|637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/submissions/) | [JavaScript](./src/average-of-levels-in-binary-tree/res.js)|Easy| binary tree |
+|652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/submissions/) | [JavaScript](./src/find-duplicate-subtrees/res.js)| Medium| binary tree |
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/submissions/) | [JavaScript](./src/maximum-binary-tree/res.js)| Medium| binary tree |
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/) | [JavaScript](./src/search-in-a-binary-search-tree/res.js)|Easy| BST |
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/) | [JavaScript](./src/insert-into-a-binary-search-tree/res.js)|Medium| BST |
