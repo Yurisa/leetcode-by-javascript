@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 138 Solutions**:
+**Progress: 142 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -137,9 +137,13 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/submissions/) | [JavaScript](./src/average-of-levels-in-binary-tree/res.js)|Easy| binary tree |
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/submissions/) | [JavaScript](./src/find-duplicate-subtrees/res.js)| Medium| binary tree |
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/submissions/) | [JavaScript](./src/maximum-binary-tree/res.js)| Medium| binary tree |
+|662|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/) | [JavaScript](./src/maximum-width-of-binary-tree/res.js)| Medium| binary tree |
+|669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/submissions/) | [JavaScript](./src/trim-a-binary-search-tree/res.js)| Medium| binary tree |
+|671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/submissions/) | [JavaScript](./src/second-minimum-node-in-a-binary-tree/res.js)| Easy| binary tree |
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/) | [JavaScript](./src/search-in-a-binary-search-tree/res.js)|Easy| BST |
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/) | [JavaScript](./src/insert-into-a-binary-search-tree/res.js)|Medium| BST |
 |704|[Binary Search](https://leetcode.com/problems/binary-search/submissions/) | [JavaScript](./src/binary-search/res.js)|Easy|
+|783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/submissions/) | [JavaScript](./src/minimum-distance-between-bst-nodes/res.js)|Easy| binary tree |
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/submissions/) | [JavaScript](./src/koko-eating-bananas/res.js)|Medium| binary search |
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/submissions/) | [JavaScript](./src/middle-of-the-linked-list/res.js)|Easy| linkedlist |
 |887|[Super Egg Drop](https://leetcode.com/problems/super-egg-drop/submissions/) | [JavaScript](./src/super-egg-drop/res.js)|Hard|
