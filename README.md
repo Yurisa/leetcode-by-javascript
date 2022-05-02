@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 143 Solutions**:
+**Progress: 153 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -98,8 +98,8 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/submissions/) | [JavaScript](./src/invert-binary-tree/res.js)|Easy| binary tree |
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/) | [JavaScript](./src/kth-smallest-element-in-a-bst/res.js)|Medium| binary tree |
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/submissions/) | [JavaScript](./src/palindrome-linked-list/res.js)|Easy| linkedList |
-|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/) | [JavaScript](./src/lowest-common-ancestor-of-a-binary-search-tree/res.js)|Easy|
-|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/) | [JavaScript](./src/lowest-common-ancestor-of-a-binary-tree/res.js)|Medium|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/submissions/) | [JavaScript](./src/lowest-common-ancestor-of-a-binary-search-tree/res.js)|Easy| binary tree |
+|236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/) | [JavaScript](./src/lowest-common-ancestor-of-a-binary-tree/res.js)|Medium| binary tree |
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/submissions/) | [JavaScript](./src/sliding-window-maximum/res.js)|Hard|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/) | [JavaScript](./src/valid-anagram/res.js)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/submissions/) | [JavaScript](./src/binary-tree-paths/res.js)|Easy| binary tree |
@@ -145,9 +145,19 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |704|[Binary Search](https://leetcode.com/problems/binary-search/submissions/) | [JavaScript](./src/binary-search/res.js)|Easy|
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/submissions/) | [JavaScript](./src/minimum-distance-between-bst-nodes/res.js)|Easy| binary tree |
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/submissions/) | [JavaScript](./src/binary-tree-pruning/res.js)|Medium| binary tree |
+|865|[Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/submissions/) | [JavaScript](./src/smallest-subtree-with-all-the-deepest-nodes/res.js)|Medium| binary search |
+|872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/submissions/) | [JavaScript](./src/leaf-similar-trees/res.js)|Easy| binary search |
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/submissions/) | [JavaScript](./src/koko-eating-bananas/res.js)|Medium| binary search |
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/submissions/) | [JavaScript](./src/middle-of-the-linked-list/res.js)|Easy| linkedlist |
 |887|[Super Egg Drop](https://leetcode.com/problems/super-egg-drop/submissions/) | [JavaScript](./src/super-egg-drop/res.js)|Hard|
+|894|[All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/submissions/) | [JavaScript](./src/all-possible-full-binary-trees/res.js)|Medium| binary tree|
+|897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/submissions/) | [JavaScript](./src/increasing-order-search-tree/res.js)|Easy| binary tree|
+|919|[Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/submissions/) | [JavaScript](./src/complete-binary-tree-inserter/res.js)|Medium| binary tree|
+|938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/submissions/) | [JavaScript](./src/range-sum-of-bst/res.js)|Easy| binary tree|
+|951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/submissions/) | [JavaScript](./src/flip-equivalent-binary-trees/res.js)|Medium| binary tree|
+|958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/submissions/) | [JavaScript](./src/check-completeness-of-a-binary-tree/res.js)|Medium| binary tree|
+|965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/submissions/) | [JavaScript](./src/univalued-binary-tree/res.js)|Easy| binary tree|
+|971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/submissions/) | [JavaScript](./src/flip-binary-tree-to-match-preorder-traversal/res.js)|Medium| binary tree|
 |1109|[Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/submissions/) | [JavaScript](./src/corporate-flight-bookings/res.js)|Medium|range|
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/submissions/) | [JavaScript](./src/relative-sort-array/res.js)|Easy|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/) | [JavaScript](./src/longest-common-subsequence/res.js)| Medium |dp|
