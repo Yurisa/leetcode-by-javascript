@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 153 Solutions**:
+**Progress: 158 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -158,6 +158,11 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/submissions/) | [JavaScript](./src/check-completeness-of-a-binary-tree/res.js)|Medium| binary tree|
 |965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/submissions/) | [JavaScript](./src/univalued-binary-tree/res.js)|Easy| binary tree|
 |971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/submissions/) | [JavaScript](./src/flip-binary-tree-to-match-preorder-traversal/res.js)|Medium| binary tree|
+|979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/submissions/) | [JavaScript](./src/distribute-coins-in-binary-tree/res.js)|Medium| binary tree|
+|993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/submissions/) | [JavaScript](./src/cousins-in-binary-tree/res.js)|Easy| binary tree|
+|998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/submissions/) | [JavaScript](./src/maximum-binary-tree-ii/res.js)|Medium| binary tree|
+|1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/submissions/) | [JavaScript](./src/construct-binary-search-tree-from-preorder-traversal/res.js)|Medium| binary tree|
 |1109|[Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/submissions/) | [JavaScript](./src/corporate-flight-bookings/res.js)|Medium|range|
+|1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/submissions/) | [JavaScript](./src/sum-of-root-to-leaf-binary-numbers/res.js)|Medium|binary tree|
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/submissions/) | [JavaScript](./src/relative-sort-array/res.js)|Easy|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/) | [JavaScript](./src/longest-common-subsequence/res.js)| Medium |dp|
