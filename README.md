@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 158 Solutions**:
+**Progress: 159 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -166,3 +166,4 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/submissions/) | [JavaScript](./src/sum-of-root-to-leaf-binary-numbers/res.js)|Medium|binary tree|
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/submissions/) | [JavaScript](./src/relative-sort-array/res.js)|Easy|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/) | [JavaScript](./src/longest-common-subsequence/res.js)| Medium |dp|
+|2236|[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/submissions/) | [JavaScript](./src/root-equals-sum-of-children/res.js)| Easy | binary tree|
