@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 160 Solutions**:
+**Progress: 163 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -45,6 +45,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/submissions/) | [JavaScript](./src/minimum-window-substring/res.js) | Hard | sliding window |
 |77|[Combinations](https://leetcode.com/problems/combinations/submissions/) | [JavaScript](./src/combinations/res.js) | Medium | backtrack |
 |78|[Subsets](https://leetcode.com/problems/subsets/submissions/) | [JavaScript](./src/subsets/res.js) | Medium | backtrack |
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/submissions/) | [JavaScript](./src/remove-duplicates-from-sorted-list/res.js) | Easy | linked list |
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii/submissions/) | [JavaScript](./src/subsets-ii/res.js) | Medium | backtrack |
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/submissions/) | [JavaScript](./src/reverse-linked-list-ii/res.js)|Medium| linkedList |
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/submissions/) | [JavaScript](./src/binary-tree-inorder-traversal/res.js)| Easy| binary tree |
@@ -88,6 +89,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |198|[House Robber](https://leetcode.com/problems/house-robber/submissions/) | [JavaScript](./src/house-robber/res.js)| Easy | dp |
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/submissions/) | [JavaScript](./src/binary-tree-right-side-view/res.js)| Medium | binary tree |
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/) | [JavaScript](./src/number-of-islands/res.js)| Medium | 
+|203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/submissions/) | [JavaScript](./src/remove-linked-list-elements/res.js)| Easy | linked list |
 |204|[Count Primes](https://leetcode.com/problems/count-primes/submissions/) | [JavaScript](./src/count-primes/res.js)| Easy | 
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/) | [JavaScript](./src/reverse-linked-list/res.js)| Easy | linkedlist |
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/submissions/) | [JavaScript](./src/implement-trie-prefix-tree/res.js)|Medium|
@@ -103,6 +105,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/submissions/) | [JavaScript](./src/sliding-window-maximum/res.js)|Hard|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/) | [JavaScript](./src/valid-anagram/res.js)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/submissions/) | [JavaScript](./src/binary-tree-paths/res.js)|Easy| binary tree |
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/) | [JavaScript](./src/move-zeroes/res.js)|Easy| array |
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/submissions/) | [JavaScript](./src/serialize-and-deserialize-binary-tree/res.js)|Hard| binary tree |
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/submissions/)| [JavaScript](./src/longest-increasing-subsequence/res.js) | Medium| dp |
 |303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/submissions/)| [JavaScript](./src/range-sum-query-immutable/res.js) | Easy| range |
