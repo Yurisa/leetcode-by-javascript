@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 167 Solutions**:
+**Progress: 168 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -167,6 +167,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/submissions/) | [JavaScript](./src/maximum-binary-tree-ii/res.js)|Medium| binary tree|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/submissions/) | [JavaScript](./src/construct-binary-search-tree-from-preorder-traversal/res.js)|Medium| binary tree|
 |1109|[Corporate Flight Bookings](https://leetcode.com/problems/corporate-flight-bookings/submissions/) | [JavaScript](./src/corporate-flight-bookings/res.js)|Medium|range|
+|1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/) | [JavaScript](./src/capacity-to-ship-packages-within-d-dayss/res.js)|Medium|binary search|
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/submissions/) | [JavaScript](./src/sum-of-root-to-leaf-binary-numbers/res.js)|Medium|binary tree|
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestors/submissions/) | [JavaScript](./src/maximum-difference-between-node-and-ancestor/res.js)|Medium|binary tree|
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/submissions/) | [JavaScript](./src/relative-sort-array/res.js)|Easy|
