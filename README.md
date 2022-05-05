@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 168 Solutions**:
+**Progress: 170 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -123,6 +123,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/solution/) | [JavaScript](./src/delete-node-in-a-bst/res.js) | Medium| BST |
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/solution/) | [JavaScript](./src/minimum-number-of-arrows-to-burst-balloons/res.js) | Medium| greedy |
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/submissions/) |  [JavaScript](./src/assign-cookies/res.js) | Easy | greedy |
+|496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/submissions/) |  [JavaScript](./src/next-greater-element-i/res.js) | Easy | stack |
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/submissions/) | [JavaScript](./src/find-mode-in-binary-search-tree/res.js)|Easy| binary tree |
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/submissions/) | [JavaScript](./src/most-frequent-subtree-sum/res.js)|Medium| binary tree |
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/submissions/) | [JavaScript](./src/fibonacci-number/res.js)|Easy|
@@ -147,6 +148,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/) | [JavaScript](./src/search-in-a-binary-search-tree/res.js)|Easy| BST |
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/) | [JavaScript](./src/insert-into-a-binary-search-tree/res.js)|Medium| BST |
 |704|[Binary Search](https://leetcode.com/problems/binary-search/submissions/) | [JavaScript](./src/binary-search/res.js)|Easy|
+|739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/submissions/) | [JavaScript](./src/daily-temperatures/res.js)|Medium| stack |
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/submissions/) | [JavaScript](./src/minimum-distance-between-bst-nodes/res.js)|Easy| binary tree |
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/submissions/) | [JavaScript](./src/binary-tree-pruning/res.js)|Medium| binary tree |
 |865|[Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/submissions/) | [JavaScript](./src/smallest-subtree-with-all-the-deepest-nodes/res.js)|Medium| binary search |
