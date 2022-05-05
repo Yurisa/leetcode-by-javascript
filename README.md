@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 166 Solutions**:
+**Progress: 167 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -95,6 +95,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/submissions/) | [JavaScript](./src/implement-trie-prefix-tree/res.js)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/) | [JavaScript](./src/minimum-size-subarray-sum/res.js)| Medium| sliding window |
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/submissions/) | [JavaScript](./src/house-robber-ii/res.js)|Medium| dp |
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/) | [JavaScript](./src/kth-largest-element-in-an-array/res.js)|Medium| sort |
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/submissions/) | [JavaScript](./src/combination-sum-iii/res.js)|Medium| backtrack |
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/submissions/) | [JavaScript](./src/count-complete-tree-nodes/res.js)|Medium| binary tree |
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/submissions/) | [JavaScript](./src/invert-binary-tree/res.js)|Easy| binary tree |
