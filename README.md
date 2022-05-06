@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 172 Solutions**:
+**Progress: 174 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -92,8 +92,10 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/submissions/) | [JavaScript](./src/remove-linked-list-elements/res.js)| Easy | linked list |
 |204|[Count Primes](https://leetcode.com/problems/count-primes/submissions/) | [JavaScript](./src/count-primes/res.js)| Easy | 
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/submissions/) | [JavaScript](./src/reverse-linked-list/res.js)| Easy | linkedlist |
+|207|[Course Schedule](https://leetcode.com/problems/course-schedule/submissions/) | [JavaScript](./src/course-schedule/res.js)| Medium | graph |
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/submissions/) | [JavaScript](./src/implement-trie-prefix-tree/res.js)|Medium|
 |209|[Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/submissions/) | [JavaScript](./src/minimum-size-subarray-sum/res.js)| Medium| sliding window |
+|210|[Course Schedule II](https://leetcode.com/problems/course-schedule-ii/submissions/) | [JavaScript](./src/course-schedule-ii/res.js)| Medium| graph |
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/submissions/) | [JavaScript](./src/house-robber-ii/res.js)|Medium| dp |
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/) | [JavaScript](./src/kth-largest-element-in-an-array/res.js)|Medium| sort |
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/submissions/) | [JavaScript](./src/combination-sum-iii/res.js)|Medium| backtrack |
