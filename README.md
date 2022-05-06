@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 174 Solutions**:
+**Progress: 175 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -118,6 +118,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/submissions/) |  [JavaScript](./src/house-robber-iii/res.js) | Medium | dp |
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/submissions/) |  [JavaScript](./src/reverse-string/res.js) | Easy |
 |370|[Range Addition](https://leetcode.com/problems/range-addition/submissions/) |  [JavaScript](./src/range-addition/res.js) | Medium | range |
+|384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/submissions/) |  [JavaScript](./src/shuffle-an-array/res.js) | Medium | sort |
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/solution/) | [JavaScript](./src/sum-of-left-leaves/res.js) | Easy| binary tree |
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/solution/) | [JavaScript](./src/non-overlapping-intervals/res.js) | Medium| greedy |
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/solution/) | [JavaScript](./src/path-sum-iii/res.js) | Medium| binary tree |
