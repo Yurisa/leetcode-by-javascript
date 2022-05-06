@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 177 Solutions**:
+**Progress: 178 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -153,6 +153,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/) | [JavaScript](./src/search-in-a-binary-search-tree/res.js)|Easy| BST |
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/) | [JavaScript](./src/insert-into-a-binary-search-tree/res.js)|Medium| BST |
 |704|[Binary Search](https://leetcode.com/problems/binary-search/submissions/) | [JavaScript](./src/binary-search/res.js)|Easy|
+|714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/submissions/) | [JavaScript](./src/best-time-to-buy-and-sell-stock-with-transaction-fee/res.js)|Medium| dp |
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/submissions/) | [JavaScript](./src/daily-temperatures/res.js)|Medium| stack |
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/submissions/) | [JavaScript](./src/minimum-distance-between-bst-nodes/res.js)|Easy| binary tree |
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/submissions/) | [JavaScript](./src/all-paths-from-source-to-target/res.js)|Medium| graph |
