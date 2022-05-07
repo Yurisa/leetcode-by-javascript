@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 179 Solutions**:
+**Progress: 180 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -87,6 +87,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/) | [JavaScript](./src/two-sum-ii-input-array-is-sorted/res.js)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/submissions/) | [JavaScript](./src/majority-element/res.js)|Easy|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/submissions/) | [JavaScript](./src/binary-search-tree-iterator/res.js)|Medium|binary tree|
+|188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/submissions/) | [JavaScript](./src/best-time-to-buy-and-sell-stock-iv/res.js)|Hard| dp |
 |198|[House Robber](https://leetcode.com/problems/house-robber/submissions/) | [JavaScript](./src/house-robber/res.js)| Easy | dp |
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/submissions/) | [JavaScript](./src/binary-tree-right-side-view/res.js)| Medium | binary tree |
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands/submissions/) | [JavaScript](./src/number-of-islands/res.js)| Medium | 
