@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 184 Solutions**:
+**Progress: 186 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -121,6 +121,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |322|[Coin Change](https://leetcode.com/problems/coin-change/solution/) | [JavaScript](./src/coin-change/res.js) | Medium| dp |
 |331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/submissions/) |  [JavaScript](./src/verify-preorder-serialization-of-a-binary-tree/res.js) | Medium | binary tree |
 |337|[House Robber III](https://leetcode.com/problems/house-robber-iii/submissions/) |  [JavaScript](./src/house-robber-iii/res.js) | Medium | dp |
+|341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/submissions/) |  [JavaScript](./src/flatten-nested-list-iterator/res.js) | Medium |
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/submissions/) |  [JavaScript](./src/reverse-string/res.js) | Easy |
 |370|[Range Addition](https://leetcode.com/problems/range-addition/submissions/) |  [JavaScript](./src/range-addition/res.js) | Medium | range |
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/submissions/) |  [JavaScript](./src/shuffle-an-array/res.js) | Medium | sort |
