@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 186 Solutions**:
+**Progress: 190 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -186,11 +186,15 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |1011|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/submissions/) | [JavaScript](./src/capacity-to-ship-packages-within-d-dayss/res.js)|Medium|binary search|
 |1022|[Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/submissions/) | [JavaScript](./src/sum-of-root-to-leaf-binary-numbers/res.js)|Medium|binary tree|
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestors/submissions/) | [JavaScript](./src/maximum-difference-between-node-and-ancestor/res.js)|Medium|binary tree|
+|1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/submissions/) | [JavaScript](./src/binary-search-tree-to-greater-sum-tree/res.js)|Medium|binary tree|
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/submissions/) | [JavaScript](./src/relative-sort-array/res.js)|Easy|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/) | [JavaScript](./src/longest-common-subsequence/res.js)| Medium |dp|
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/submissions/) | [JavaScript](./src/convert-binary-number-in-a-linked-list-to-integer/res.js)| Easy | linked list|
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/submissions/) | [JavaScript](./src/deepest-leaves-sum/res.js)| Medium |  binary tree|
 |1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/submissions/) | [JavaScript](./src/linked-list-in-binary-tree/res.js)| Medium | linked list binary tree|
 |1373|[Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/submissions/) | [JavaScript](./src/maximum-sum-bst-in-binary-tree/res.js)| Hard | binary tree|
+|1379|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/submissions/) | [JavaScript](./src/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/res.js)| Medium | binary tree|
+|1382|[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/submissions/) | [JavaScript](./src/balance-a-binary-search-tree/res.js)| Medium | binary tree|
+|1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/) | [JavaScript](./src/count-good-nodes-in-binary-tree/res.js)| Medium | binary tree|
 |2230|[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/submissions/) | [JavaScript](./src/maximum-twin-sum-of-a-linked-list/res.js)| Medium | linked list|
 |2236|[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/submissions/) | [JavaScript](./src/root-equals-sum-of-children/res.js)| Easy | binary tree|
