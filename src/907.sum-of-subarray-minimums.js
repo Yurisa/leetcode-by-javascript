@@ -15,15 +15,13 @@ var sumSubarrayMins = function (arr) {
   const track = [];
   function backtrack(arr, start) {
     all.push([...track]);
-    for (let i = start; i < arr.length; i++) {
-      track.push(arr[i]);
-      backtrack(arr, i + 1);
-      track.pop();
-    }
+    track.push(arr[start]);
+    backtrack(arr, start + 1);
+    track.pop();
   }
   backtrack(arr, 0);
 
-  console.log(all)
+  console.log(all);
   for (const arr of all) {
     for (const item of arr) {
       res += item;

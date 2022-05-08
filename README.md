@@ -175,6 +175,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/submissions/) | [JavaScript](./src/flip-equivalent-binary-trees/res.js)|Medium| binary tree|
 |958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/submissions/) | [JavaScript](./src/check-completeness-of-a-binary-tree/res.js)|Medium| binary tree|
 |965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/submissions/) | [JavaScript](./src/univalued-binary-tree/res.js)|Easy| binary tree|
+|968|[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/submissions/) | [JavaScript](./src/binary-tree-cameras/res.js)|Hard| binary tree|
 |971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/submissions/) | [JavaScript](./src/flip-binary-tree-to-match-preorder-traversal/res.js)|Medium| binary tree|
 |979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/submissions/) | [JavaScript](./src/distribute-coins-in-binary-tree/res.js)|Medium| binary tree|
 |993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/submissions/) | [JavaScript](./src/cousins-in-binary-tree/res.js)|Easy| binary tree|
