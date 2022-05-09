@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 194 Solutions**:
+**Progress: 195 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -200,5 +200,6 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/) | [JavaScript](./src/count-good-nodes-in-binary-tree/res.js)| Medium | binary tree|
 |1457|[Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/submissions/) | [JavaScript](./src/pseudo-palindromic-paths-in-a-binary-tree/res.js)| Medium | binary tree|
 |1530|[Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/submissions/) | [JavaScript](./src/number-of-good-leaf-nodes-pairs/res.js)| Medium | binary tree|
+|1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/submissions/) | [JavaScript](./src/even-odd-tree/res.js)| Medium | binary tree|
 |2230|[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/submissions/) | [JavaScript](./src/maximum-twin-sum-of-a-linked-list/res.js)| Medium | linked list|
 |2236|[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/submissions/) | [JavaScript](./src/root-equals-sum-of-children/res.js)| Easy | binary tree|
