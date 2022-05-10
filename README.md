@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 198 Solutions**:
+**Progress: 199 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -193,6 +193,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/submissions/) | [JavaScript](./src/relative-sort-array/res.js)|Easy|
 |1123|[Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/submissions/) | [JavaScript](./src/lowest-common-ancestor-of-deepest-leaves/res.js)|Medium| binary tree 同865|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/) | [JavaScript](./src/longest-common-subsequence/res.js)| Medium |dp|
+|1145|[Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/submissions/) | [JavaScript](./src/binary-tree-coloring-game/res.js)| Medium |binary tree|
 |1161|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/submissions/) | [JavaScript](./src/maximum-level-sum-of-a-binary-tree/res.js)| Medium |binary tree|
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/submissions/) | [JavaScript](./src/convert-binary-number-in-a-linked-list-to-integer/res.js)| Easy | linked list|
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/submissions/) | [JavaScript](./src/deepest-leaves-sum/res.js)| Medium |  binary tree|
