@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 199 Solutions**:
+**Progress: 200 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -197,6 +197,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |1161|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/submissions/) | [JavaScript](./src/maximum-level-sum-of-a-binary-tree/res.js)| Medium |binary tree|
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/submissions/) | [JavaScript](./src/convert-binary-number-in-a-linked-list-to-integer/res.js)| Easy | linked list|
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/submissions/) | [JavaScript](./src/deepest-leaves-sum/res.js)| Medium |  binary tree|
+|1315|[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/submissions/) | [JavaScript](./src/sum-of-nodes-with-even-valued-grandparent/res.js)| Medium |  binary tree|
 |1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/submissions/) | [JavaScript](./src/linked-list-in-binary-tree/res.js)| Medium | linked list binary tree|
 |1373|[Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/submissions/) | [JavaScript](./src/maximum-sum-bst-in-binary-tree/res.js)| Hard | binary tree|
 |1379|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/submissions/) | [JavaScript](./src/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/res.js)| Medium | binary tree|
