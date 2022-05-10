@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 196 Solutions**:
+**Progress: 198 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -191,7 +191,9 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |1080|[Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/submissions/) | [JavaScript](./src/insufficient-nodes-in-root-to-leaf-paths/res.js)|Medium|binary tree|
 |1110|[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/submissions/) | [JavaScript](./src/delete-nodes-and-return-forest/res.js)|Medium| binary tree|
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/submissions/) | [JavaScript](./src/relative-sort-array/res.js)|Easy|
+|1123|[Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/submissions/) | [JavaScript](./src/lowest-common-ancestor-of-deepest-leaves/res.js)|Medium| binary tree 同865|
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/) | [JavaScript](./src/longest-common-subsequence/res.js)| Medium |dp|
+|1161|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/submissions/) | [JavaScript](./src/maximum-level-sum-of-a-binary-tree/res.js)| Medium |binary tree|
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/submissions/) | [JavaScript](./src/convert-binary-number-in-a-linked-list-to-integer/res.js)| Easy | linked list|
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/submissions/) | [JavaScript](./src/deepest-leaves-sum/res.js)| Medium |  binary tree|
 |1367|[Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/submissions/) | [JavaScript](./src/linked-list-in-binary-tree/res.js)| Medium | linked list binary tree|
