@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 195 Solutions**:
+**Progress: 196 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -27,6 +27,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/) | [JavaScript](./src/find-first-and-last-position-of-element-in-sorted-array/res.js)|Medium|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/submissions/) | [JavaScript](./src/combination-sum/submissions/res.js)|Medium| backtrack |
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/submissions/) | [JavaScript](./src/combination-sum-ii/res.js)|Medium| backtrack |
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/submissions/) | [JavaScript](./src/trapping-rain-water/res.js)|Hard| dp |
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/submissions/) | [JavaScript](./src/multiply-strings/res.js)|Medium|
 |45|[Jump Game II](https://leetcode.com/problems/jump-game-ii/submissions/) | [JavaScript](./src/jump-game-ii/res.js) | Hard | greedy/dp |
 |46|[Permutations](https://leetcode.com/problems/permutations/submissions/) | [JavaScript](./src/permutations/res.js)|Medium| backtrack |
