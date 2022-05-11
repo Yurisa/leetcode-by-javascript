@@ -152,6 +152,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/submissions/) | [JavaScript](./src/merge-two-binary-trees/res.js)|Easy| binary tree |
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/submissions/) | [JavaScript](./src/add-one-row-to-tree/res.js)|Medium| binary tree |
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/submissions/) | [JavaScript](./src/average-of-levels-in-binary-tree/res.js)|Easy| binary tree |
+|643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/submissions/) | [JavaScript](./src/643.maximum-average-subarray-i.js)|Easy|sliding window |
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/submissions/) | [JavaScript](./src/find-duplicate-subtrees/res.js)| Medium| binary tree |
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/submissions/) | [JavaScript](./src/maximum-binary-tree/res.js)| Medium| binary tree |
 |662|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/) | [JavaScript](./src/maximum-width-of-binary-tree/res.js)| Medium| binary tree |
