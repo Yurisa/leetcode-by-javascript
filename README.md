@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 200 Solutions**:
+**Progress: 201 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -202,6 +202,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |1373|[Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/submissions/) | [JavaScript](./src/maximum-sum-bst-in-binary-tree/res.js)| Hard | binary tree|
 |1379|[Find a Corresponding Node of a Binary Tree in a Clone of That Tree](https://leetcode.com/problems/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/submissions/) | [JavaScript](./src/find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree/res.js)| Medium | binary tree|
 |1382|[Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree/submissions/) | [JavaScript](./src/balance-a-binary-search-tree/res.js)| Medium | binary tree|
+|1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/submissions/) | [JavaScript](./src/1438.longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.js)| Medium | sliding window|
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/) | [JavaScript](./src/count-good-nodes-in-binary-tree/res.js)| Medium | binary tree|
 |1457|[Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/submissions/) | [JavaScript](./src/pseudo-palindromic-paths-in-a-binary-tree/res.js)| Medium | binary tree|
 |1530|[Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/submissions/) | [JavaScript](./src/number-of-good-leaf-nodes-pairs/res.js)| Medium | binary tree|
