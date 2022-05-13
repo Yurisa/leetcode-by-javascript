@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 206 Solutions**:
+**Progress: 207 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -25,6 +25,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |27|[Remove Element](https://leetcode.com/problems/remove-element/submissions/) | [JavaScript](./src/remove-element/res.js)| Easy | array |
 |33 * |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/) | [JavaScript](./src/search-in-rotated-sorted-array/res.js)|Medium| binary search |
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/) | [JavaScript](./src/find-first-and-last-position-of-element-in-sorted-array/res.js)|Medium|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/) | [JavaScript](./src/35.search-insert-position.js)|Easy| bianry search |
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum/submissions/) | [JavaScript](./src/combination-sum/submissions/res.js)|Medium| backtrack |
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/submissions/) | [JavaScript](./src/combination-sum-ii/res.js)|Medium| backtrack |
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/submissions/) | [JavaScript](./src/trapping-rain-water/res.js)|Hard| dp |

@@ -9,11 +9,10 @@
  * @param {string} s
  * @return {number}
  */
-var countGoodSubstrings = function (s) {
+ var countGoodSubstrings = function (s) {
   const n = 3;
-  let left = 0;
   let right = 0;
-  const window = new Array(n);
+  const window = []
   let res = 0;
 
   while (right < s.length) {
@@ -27,8 +26,7 @@ var countGoodSubstrings = function (s) {
       if (check(window)) {
         res++;
       }
-      window.unshift();
-      left++;
+      window.shift();
     }
   }
   return res;
