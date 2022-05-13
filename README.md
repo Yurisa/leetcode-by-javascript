@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 204 Solutions**:
+**Progress: 205 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -104,6 +104,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |213|[House Robber II](https://leetcode.com/problems/house-robber-ii/submissions/) | [JavaScript](./src/house-robber-ii/res.js)|Medium| dp |
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/) | [JavaScript](./src/kth-largest-element-in-an-array/res.js)|Medium| sort |
 |216|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/submissions/) | [JavaScript](./src/combination-sum-iii/res.js)|Medium| backtrack |
+|219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/submissions/) | [JavaScript](./src/219.contains-duplicate-ii.js)|Easy| sliding window |
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/submissions/) | [JavaScript](./src/count-complete-tree-nodes/res.js)|Medium| binary tree |
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/submissions/) | [JavaScript](./src/invert-binary-tree/res.js)|Easy| binary tree |
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/) | [JavaScript](./src/kth-smallest-element-in-a-bst/res.js)|Medium| binary tree |
@@ -151,7 +152,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |606|[Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/submissions/) | [JavaScript](./src/construct-string-from-binary-tree/res.js)|Easy| binary tree |
 |617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/submissions/) | [JavaScript](./src/merge-two-binary-trees/res.js)|Easy| binary tree |
 |623|[Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/submissions/) | [JavaScript](./src/add-one-row-to-tree/res.js)|Medium| binary tree |
-|632|[Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/submissions/) | [JavaScript](./src/632.smallest-range-covering-elements-from-k-lists.js/res.js)|Hard| sliding window |
+|632|[Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/submissions/) | [JavaScript](./src/632.smallest-range-covering-elements-from-k-lists.js)|Hard| sliding window |
 |637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/submissions/) | [JavaScript](./src/average-of-levels-in-binary-tree/res.js)|Easy| binary tree |
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/submissions/) | [JavaScript](./src/643.maximum-average-subarray-i.js)|Easy|sliding window |
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/submissions/) | [JavaScript](./src/find-duplicate-subtrees/res.js)| Medium| binary tree |
