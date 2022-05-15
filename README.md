@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 211 Solutions**:
+**Progress: 212 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -168,6 +168,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/submissions/) | [JavaScript](./src/daily-temperatures/res.js)|Medium| stack |
 |783|[Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/submissions/) | [JavaScript](./src/minimum-distance-between-bst-nodes/res.js)|Easy| binary tree |
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/submissions/) | [JavaScript](./src/all-paths-from-source-to-target/res.js)|Medium| graph |
+|812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/submissions/) | [JavaScript](./src/812.largest-triangle-area.js)|Easy|
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/submissions/) | [JavaScript](./src/binary-tree-pruning/res.js)|Medium| binary tree |
 |865|[Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/submissions/) | [JavaScript](./src/smallest-subtree-with-all-the-deepest-nodes/res.js)|Medium| binary search |
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/submissions/) | [JavaScript](./src/leaf-similar-trees/res.js)|Easy| binary search |
