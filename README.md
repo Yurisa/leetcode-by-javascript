@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 209 Solutions**:
+**Progress: 211 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -217,3 +217,5 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |2236|[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/submissions/) | [JavaScript](./src/root-equals-sum-of-children/res.js)| Easy | binary tree|
 |2264|[Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/submissions/) | [JavaScript](./src/2264.largest-3-same-digit-number-in-string.js)| Easy | sliding window |
 |2265|[Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/submissions/) | [JavaScript](./src/2265.count-nodes-equal-to-average-of-subtree.js)| Medium | binary tree |
+|2273|[Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams/submissions/) | [JavaScript](./src/find-resultant-array-after-removing-anagrams/res.js)| Easy |
+|2274|[Maximum Consecutive Floors Without Special Floors](https://leetcode.com/problems/maximum-consecutive-floors-without-special-floors/submissions/) | [JavaScript](./src/maximum-consecutive-floors-without-special-floors/res.js)| Medium |
