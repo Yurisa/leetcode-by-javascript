@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 212 Solutions**:
+**Progress: 215 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -39,6 +39,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/submissions/) | [JavaScript](./src/maximum-subarray/res.js) |Easy | dp |
 |54|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/submissions/) | [JavaScript](./src/spiral-matrix/res.js) |Medium |
 |55|[Jump Game](https://leetcode.com/problems/jump-game/submissions/) | [JavaScript](./src/jump-game/res.js) | Medium | greedy/dp |
+|56|[Merge Intervals](https://leetcode.com/problems/merge-intervals/submissions/) | [JavaScript](./src/56.merge-intervals.js) | Medium | range |
 |62|[Unique Paths](https://leetcode.com/problems/unique-paths/submissions/) | [JavaScript](./src/unique-paths/res.js) | Medium | dp |
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/submissions/) | [JavaScript](./src/unique-paths-ii/res.js) | Medium | dp |
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/submissions/) | [JavaScript](./src//minimum-path-sum/res.js) | Medium | dp |
@@ -186,6 +187,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |968|[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/submissions/) | [JavaScript](./src/binary-tree-cameras/res.js)|Hard| binary tree|
 |971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/submissions/) | [JavaScript](./src/flip-binary-tree-to-match-preorder-traversal/res.js)|Medium| binary tree|
 |979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/submissions/) | [JavaScript](./src/distribute-coins-in-binary-tree/res.js)|Medium| binary tree|
+|986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/submissions/) | [JavaScript](./src/986.interval-list-intersections.js)|Medium| range|
 |993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/submissions/) | [JavaScript](./src/cousins-in-binary-tree/res.js)|Easy| binary tree|
 |998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/submissions/) | [JavaScript](./src/maximum-binary-tree-ii/res.js)|Medium| binary tree|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/submissions/) | [JavaScript](./src/construct-binary-search-tree-from-preorder-traversal/res.js)|Medium| binary tree|
@@ -201,6 +203,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |1143|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/submissions/) | [JavaScript](./src/longest-common-subsequence/res.js)| Medium |dp|
 |1145|[Binary Tree Coloring Game](https://leetcode.com/problems/binary-tree-coloring-game/submissions/) | [JavaScript](./src/binary-tree-coloring-game/res.js)| Medium |binary tree|
 |1161|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/submissions/) | [JavaScript](./src/maximum-level-sum-of-a-binary-tree/res.js)| Medium |binary tree|
+|1288|[Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/submissions/) | [JavaScript](./src/1288.remove-covered-intervals.js)| Easy | range|
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/submissions/) | [JavaScript](./src/convert-binary-number-in-a-linked-list-to-integer/res.js)| Easy | linked list|
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/submissions/) | [JavaScript](./src/deepest-leaves-sum/res.js)| Medium |  binary tree|
 |1315|[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/submissions/) | [JavaScript](./src/sum-of-nodes-with-even-valued-grandparent/res.js)| Medium |  binary tree|
