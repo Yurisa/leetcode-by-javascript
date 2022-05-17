@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 216 Solutions**:
+**Progress: 217 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -182,7 +182,8 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/submissions/) | [JavaScript](./src/range-sum-of-bst/res.js)|Easy| binary tree|
 |944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/submissions/) | [JavaScript](./src/944.delete-columns-to-make-sorted.js)|Easy|
 |951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/submissions/) | [JavaScript](./src/flip-equivalent-binary-trees/res.js)|Medium| binary tree|
-|958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/submissions/) | [JavaScript](./src/check-completeness-of-a-binary-tree/res.js)|Medium| binary tree|
+|953|[Verifying an Alien Dictionary](https://leetcode.com/problems/check-completeness-of-a-binary-tree/submissions/) | [JavaScript](./src/check-completeness-of-a-binary-tree/res.js)|Medium| binary tree|
+|958|[Check Completeness of a Binary Tree](https://leetcode.com/problems/verifying-an-alien-dictionary/submissions/) | [JavaScript](./src/verifying-an-alien-dictionary/res.js)|Easy|
 |965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/submissions/) | [JavaScript](./src/univalued-binary-tree/res.js)|Easy| binary tree|
 |968|[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/submissions/) | [JavaScript](./src/binary-tree-cameras/res.js)|Hard| binary tree|
 |971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/submissions/) | [JavaScript](./src/flip-binary-tree-to-match-preorder-traversal/res.js)|Medium| binary tree|
