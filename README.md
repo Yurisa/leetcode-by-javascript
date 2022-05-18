@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 220 Solutions**:
+**Progress: 222 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -88,7 +88,9 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/submissions/) | [JavaScript](./src/binary-tree-postorder-traversal/res.js)|Easy| binary tree |
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/submissions/) | [JavaScript](./src/reverse-words-in-a-string/res.js)|Medium|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/) | [JavaScript](./src/find-minimum-in-rotated-sorted-array/res.js)|Medium|binary search|
+|154|[Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/submissions/) | [JavaScript](./src/154.find-minimum-in-rotated-sorted-array-ii.js)|Hard|binary search|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/submissions/) | [JavaScript](./src/intersection-of-two-linked-lists/res.js)|Easy|linked list|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element/submissions/) | [JavaScript](./src/162.find-peak-element.js)|Medium| binary search |
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/) | [JavaScript](./src/two-sum-ii-input-array-is-sorted/res.js)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/submissions/) | [JavaScript](./src/majority-element/res.js)|Easy|
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/submissions/) | [JavaScript](./src/binary-search-tree-iterator/res.js)|Medium|binary tree|
@@ -128,6 +130,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |341|[Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/submissions/) |  [JavaScript](./src/flatten-nested-list-iterator/res.js) | Medium |
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/submissions/) |  [JavaScript](./src/reverse-string/res.js) | Easy |
 |370|[Range Addition](https://leetcode.com/problems/range-addition/submissions/) |  [JavaScript](./src/range-addition/res.js) | Medium | range |
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/submissions/) |  [JavaScript](./src/374.guess-number-higher-or-lower.js) | Medium | binary search |
 |384|[Shuffle an Array](https://leetcode.com/problems/shuffle-an-array/submissions/) |  [JavaScript](./src/shuffle-an-array/res.js) | Medium | sort |
 |394|[Decode String](https://leetcode.com/problems/decode-string/submissions/) |  [JavaScript](./src/decode-string/res.js) | Medium | stack |
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/solution/) | [JavaScript](./src/sum-of-left-leaves/res.js) | Easy| binary tree |
