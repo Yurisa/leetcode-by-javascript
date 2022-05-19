@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 223 Solutions**:
+**Progress: 225 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -45,6 +45,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/submissions/) | [JavaScript](./src//minimum-path-sum/res.js) | Medium | dp |
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/submissions/) | [JavaScript](./src/sqrtx/res.js)|Easy|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/submissions/) | [JavaScript](./src/edit-distance/res.js) | Hard | dp |
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/) | [JavaScript](./src/74.search-a-2-d-matrix.js) | Medium | binary search |
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/submissions/) | [JavaScript](./src/sort-colors/res.js) | Medium | sort |
 |76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/submissions/) | [JavaScript](./src/minimum-window-substring/res.js) | Hard | sliding window |
 |77|[Combinations](https://leetcode.com/problems/combinations/submissions/) | [JavaScript](./src/combinations/res.js) | Medium | backtrack |
@@ -118,6 +119,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/submissions/) | [JavaScript](./src/sliding-window-maximum/res.js)|Hard|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/submissions/) | [JavaScript](./src/valid-anagram/res.js)|Easy|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/submissions/) | [JavaScript](./src/binary-tree-paths/res.js)|Easy| binary tree |
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/submissions/) | [JavaScript](./src/278.first-bad-version.js)|Easy| binary search |
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/) | [JavaScript](./src/move-zeroes/res.js)|Easy| array |
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/submissions/) | [JavaScript](./src/serialize-and-deserialize-binary-tree/res.js)|Hard| binary tree |
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/submissions/)| [JavaScript](./src/longest-increasing-subsequence/res.js) | Medium| dp |
