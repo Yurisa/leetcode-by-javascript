@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 222 Solutions**:
+**Progress: 223 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -141,6 +141,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/solution/) | [JavaScript](./src/delete-node-in-a-bst/res.js) | Medium| BST |
 |452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/solution/) | [JavaScript](./src/minimum-number-of-arrows-to-burst-balloons/res.js) | Medium| greedy |
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/submissions/) |  [JavaScript](./src/assign-cookies/res.js) | Easy | greedy |
+|462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/submissions/) |  [JavaScript](./src/462.minimum-moves-to-equal-array-elements-ii.js) | Medium |
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/submissions/) |  [JavaScript](./src/next-greater-element-i/res.js) | Easy | stack |
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/submissions/) | [JavaScript](./src/find-mode-in-binary-search-tree/res.js)|Easy| binary tree |
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/submissions/) | [JavaScript](./src/most-frequent-subtree-sum/res.js)|Medium| binary tree |
