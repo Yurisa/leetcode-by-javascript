@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 225 Solutions**:
+**Progress: 226 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -165,6 +165,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |643|[Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/submissions/) | [JavaScript](./src/643.maximum-average-subarray-i.js)|Easy|sliding window |
 |652|[Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees/submissions/) | [JavaScript](./src/find-duplicate-subtrees/res.js)| Medium| binary tree |
 |654|[Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/submissions/) | [JavaScript](./src/maximum-binary-tree/res.js)| Medium| binary tree |
+|658|[Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/submissions/) | [JavaScript](./src/658.find-k-closest-elements.js)| Medium| binary search |
 |662|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/) | [JavaScript](./src/maximum-width-of-binary-tree/res.js)| Medium| binary tree |
 |668|[Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/submissions/) | [JavaScript](./src/668.kth-smallest-number-in-multiplication-table.js)| Hard | binary search |
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/submissions/) | [JavaScript](./src/trim-a-binary-search-tree/res.js)| Medium| binary tree |
