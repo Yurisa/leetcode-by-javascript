@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 226 Solutions**:
+**Progress: 227 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -138,6 +138,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/solution/) | [JavaScript](./src/sum-of-left-leaves/res.js) | Easy| binary tree |
 |415|[Add Strings](https://leetcode.com/problems/add-strings/solution/) | [JavaScript](./src/add-strings/res.js) | Easy|
 |435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/solution/) | [JavaScript](./src/non-overlapping-intervals/res.js) | Medium| greedy |
+|436|[Find Right Interval](https://leetcode.com/problems/find-right-interval/solution/) | [JavaScript](./src/436.find-right-interval.js) | Medium| range |
 |437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/solution/) | [JavaScript](./src/path-sum-iii/res.js) | Medium| binary tree |
 |438|[Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/solution/) | [JavaScript](./src/find-all-anagrams-in-a-string/res.js) | Medium| sliding window |
 |450|[Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/solution/) | [JavaScript](./src/delete-node-in-a-bst/res.js) | Medium| BST |
