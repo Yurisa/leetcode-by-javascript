@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 233 Solutions**:
+**Progress: 234 Solutions**:
 
 | ID | Title | Solution | Difficulty | category|
 |---| ----- | -------- | ---------- |  ------- |
@@ -218,6 +218,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |1161|[Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/submissions/) | [JavaScript](./src/maximum-level-sum-of-a-binary-tree/res.js)| Medium |binary tree|
 |1288|[Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/submissions/) | [JavaScript](./src/1288.remove-covered-intervals.js)| Easy | range|
 |1290|[Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/submissions/) | [JavaScript](./src/convert-binary-number-in-a-linked-list-to-integer/res.js)| Easy | linked list|
+|1297|[Maximum Number of Occurrences of a Substring](https://leetcode.com/problems/maximum-number-of-occurrences-of-a-substring/submissions/) | [JavaScript](./src/1297.maximum-number-of-occurrences-of-a-substring.js)| Medium | sliding window |
 |1302|[Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/submissions/) | [JavaScript](./src/deepest-leaves-sum/res.js)| Medium |  binary tree|
 |1315|[Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/submissions/) | [JavaScript](./src/sum-of-nodes-with-even-valued-grandparent/res.js)| Medium |  binary tree|
 |1325|[Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/submissions/) | [JavaScript](./src/1325.delete-leaves-with-a-given-value.js)| Medium |  binary tree|
