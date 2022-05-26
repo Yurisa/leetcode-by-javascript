@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 236 Solutions**:
+**Progress: 237 Solutions**:
 
 | ID | Title | Solution | Difficulty | category| Chinese|
 |---| ----- | -------- | ---------- |  ------- | ------- |
@@ -191,6 +191,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |887|[Super Egg Drop](https://leetcode.com/problems/super-egg-drop/submissions/) | [JavaScript](./src/super-egg-drop/res.js)|Hard|
 |894|[All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/submissions/) | [JavaScript](./src/all-possible-full-binary-trees/res.js)|Medium| binary tree|
 |897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/submissions/) | [JavaScript](./src/increasing-order-search-tree/res.js)|Easy| binary tree|
+|904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/submissions/) | [JavaScript](./src/904.fruit-into-baskets.js)|Medium| sliding window | [水果成篮](https://leetcode.cn/problems/fruit-into-baskets/submissions/) | 
 |919|[Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/submissions/) | [JavaScript](./src/complete-binary-tree-inserter/res.js)|Medium| binary tree|
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/submissions/) | [JavaScript](./src/range-sum-of-bst/res.js)|Easy| binary tree|
 |944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/submissions/) | [JavaScript](./src/944.delete-columns-to-make-sorted.js)|Easy|
