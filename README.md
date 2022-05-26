@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 237 Solutions**:
+**Progress: 238 Solutions**:
 
 | ID | Title | Solution | Difficulty | category| Chinese|
 |---| ----- | -------- | ---------- |  ------- | ------- |
@@ -204,6 +204,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/submissions/) | [JavaScript](./src/flip-binary-tree-to-match-preorder-traversal/res.js)|Medium| binary tree|
 |979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/submissions/) | [JavaScript](./src/distribute-coins-in-binary-tree/res.js)|Medium| binary tree|
 |986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/submissions/) | [JavaScript](./src/986.interval-list-intersections.js)|Medium| range|
+|992|[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/submissions/) | [JavaScript](./src/992.subarrays-with-k-different-integers.js)|Hard| sliding window | [K 个不同整数的子数组](https://leetcode.cn/problems/subarrays-with-k-different-integers/submissions/) |
 |993|[Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/submissions/) | [JavaScript](./src/cousins-in-binary-tree/res.js)|Easy| binary tree|
 |998|[Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/submissions/) | [JavaScript](./src/maximum-binary-tree-ii/res.js)|Medium| binary tree|
 |1008|[Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/submissions/) | [JavaScript](./src/construct-binary-search-tree-from-preorder-traversal/res.js)|Medium| binary tree|
