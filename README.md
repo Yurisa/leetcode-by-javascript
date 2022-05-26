@@ -4,10 +4,10 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 235 Solutions**:
+**Progress: 236 Solutions**:
 
-| ID | Title | Solution | Difficulty | category|
-|---| ----- | -------- | ---------- |  ------- |
+| ID | Title | Solution | Difficulty | category| Chinese|
+|---| ----- | -------- | ---------- |  ------- | ------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/submissions/) | [JavaScript](./src/two-sum/res.js)|Easy|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/) | [JavaScript](./src/longest-substring-without-repeating-characters/res.js)|Medium|  sliding window |
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/submissions/)| [JavaScript](./src/longest-palindromic-substring/res.js)| Medium| dp |
@@ -173,6 +173,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/submissions/) | [JavaScript](./src/trim-a-binary-search-tree/res.js)| Medium| binary tree |
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/submissions/) | [JavaScript](./src/second-minimum-node-in-a-binary-tree/res.js)| Easy| binary tree |
 |675|[Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/submissions/) | [JavaScript](./src/675.cut-off-trees-for-golf-event.js)| Hard | bfs graph |
+|699|[Falling Squares](https://leetcode.com/problems/falling-squares/submissions/) | [JavaScript](./src/699.falling-squares.js)| Hard |  range、segmenttree | [掉落的方块](https://leetcode.cn/problems/falling-squares/submissions/) |
 |700|[Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/submissions/) | [JavaScript](./src/search-in-a-binary-search-tree/res.js)|Easy| BST |
 |701|[Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/) | [JavaScript](./src/insert-into-a-binary-search-tree/res.js)|Medium| BST |
 |704|[Binary Search](https://leetcode.com/problems/binary-search/submissions/) | [JavaScript](./src/binary-search/res.js)|Easy|
