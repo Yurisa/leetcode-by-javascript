@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 239 Solutions**:
+**Progress: 241 Solutions**:
 
 | ID | Title | Solution | Difficulty | category| Chinese|
 |---| ----- | -------- | ---------- |  ------- | ------- |
@@ -193,6 +193,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/submissions/) | [JavaScript](./src/increasing-order-search-tree/res.js)|Easy| binary tree|
 |904|[Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/submissions/) | [JavaScript](./src/904.fruit-into-baskets.js)|Medium| sliding window | [水果成篮](https://leetcode.cn/problems/fruit-into-baskets/submissions/) | 
 |919|[Complete Binary Tree Inserter](https://leetcode.com/problems/complete-binary-tree-inserter/submissions/) | [JavaScript](./src/complete-binary-tree-inserter/res.js)|Medium| binary tree|
+|930|[Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum/submissions/) | [JavaScript](./src/930.binary-subarrays-with-sum.js)|Medium| sliding window、preSum| [和相同的二元子数组](https://leetcode.cn/problems/binary-subarrays-with-sum/submissions/) |
 |938|[Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/submissions/) | [JavaScript](./src/range-sum-of-bst/res.js)|Easy| binary tree|
 |944|[Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/submissions/) | [JavaScript](./src/944.delete-columns-to-make-sorted.js)|Easy|
 |951|[Flip Equivalent Binary Trees](https://leetcode.com/problems/flip-equivalent-binary-trees/submissions/) | [JavaScript](./src/flip-equivalent-binary-trees/res.js)|Medium| binary tree|
@@ -202,6 +203,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |965|[Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/submissions/) | [JavaScript](./src/univalued-binary-tree/res.js)|Easy| binary tree|
 |968|[Binary Tree Cameras](https://leetcode.com/problems/binary-tree-cameras/submissions/) | [JavaScript](./src/binary-tree-cameras/res.js)|Hard| binary tree|
 |971|[Flip Binary Tree To Match Preorder Traversal](https://leetcode.com/problems/flip-binary-tree-to-match-preorder-traversal/submissions/) | [JavaScript](./src/flip-binary-tree-to-match-preorder-traversal/res.js)|Medium| binary tree|
+|978|[Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/submissions/) | [JavaScript](./src/978.longest-turbulent-subarray.js)|Medium| sliding window | [最长湍流子数组](https://leetcode.cn/problems/longest-turbulent-subarray/submissions/) |
 |979|[Distribute Coins in Binary Tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/submissions/) | [JavaScript](./src/distribute-coins-in-binary-tree/res.js)|Medium| binary tree|
 |986|[Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/submissions/) | [JavaScript](./src/986.interval-list-intersections.js)|Medium| range|
 |992|[Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers/submissions/) | [JavaScript](./src/992.subarrays-with-k-different-integers.js)|Hard| sliding window | [K 个不同整数的子数组](https://leetcode.cn/problems/subarrays-with-k-different-integers/submissions/) |
