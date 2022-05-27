@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 238 Solutions**:
+**Progress: 239 Solutions**:
 
 | ID | Title | Solution | Difficulty | category| Chinese|
 |---| ----- | -------- | ---------- |  ------- | ------- |
@@ -247,3 +247,4 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |2279|[Maximum Bags With Full Capacity of Rocks](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/submissions/) | [JavaScript](./src/2279.maximum-bags-with-full-capacity-of-rocks.js)| Medium |
 |2280|[Minimum Lines to Represent a Line Chart](https://leetcode.com/problems/minimum-lines-to-represent-a-line-chart/submissions/) | [JavaScript](./src/2280.minimum-lines-to-represent-a-line-chart.js)| Medium |
 |面试题 04.06. 后继者|[Successor Lcci](https://leetcode.com/problems/successor-lcci/submissions/) | [JavaScript](./src/successor-lcci/res.js)|Medium| | binary tree|
+|面试题 17.11. 单词距离|[面试题 17.11. 单词距离](https://leetcode.cn/problems/find-closest-lcci/submissions/) | [JavaScript](./src/successor-lcci/res.js)|Medium|
