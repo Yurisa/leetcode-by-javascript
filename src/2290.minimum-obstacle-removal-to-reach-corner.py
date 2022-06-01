@@ -5,6 +5,9 @@
 #
 
 # @lc code=start
+from collections import deque
+
+
 class Solution:
     def minimumObstacles(self, grid: List[List[int]]) -> int:
         m, n = len(grid), len(grid[0])
