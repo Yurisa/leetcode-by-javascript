@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 249 Solutions**:
+**Progress: 250 Solutions**:
 
 | ID | Title | Solution | Difficulty | category| Chinese|
 |---| ----- | -------- | ---------- |  ------- | ------- |
@@ -146,6 +146,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/submissions/) |  [JavaScript](./src/assign-cookies/res.js) | Easy | greedy |
 |462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/submissions/) |  [JavaScript](./src/462.minimum-moves-to-equal-array-elements-ii.js) | Medium |
 |467|[Unique Substrings in Wraparound String](https://leetcode.com/problems/unique-substrings-in-wraparound-string/submissions/) |  [JavaScript](./src/467.unique-substrings-in-wraparound-string.js) | Medium | preSum |
+|473|[Matchsticks to Square](https://leetcode.com/problems/matchsticks-to-square/submissions/) |  [JavaScript](./src/473.matchsticks-to-square.py) | Medium | DFS | [473.火柴拼正方形](https://leetcode.cn/problems/matchsticks-to-square/submissions/) |
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/submissions/) |  [JavaScript](./src/next-greater-element-i/res.js) | Easy | stack |
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/submissions/) | [JavaScript](./src/find-mode-in-binary-search-tree/res.js)|Easy| binary tree |
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/submissions/) | [JavaScript](./src/most-frequent-subtree-sum/res.js)|Medium| binary tree |
