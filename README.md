@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 251 Solutions**:
+**Progress: 252 Solutions**:
 
 | ID | Title | Solution | Difficulty | category| Chinese|
 |---| ----- | -------- | ---------- |  ------- | ------- |
@@ -238,6 +238,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |1438|[Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit](https://leetcode.com/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/submissions/) | [JavaScript](./src/1438.longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit.js)| Medium | sliding window|
 |1448|[Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/submissions/) | [JavaScript](./src/count-good-nodes-in-binary-tree/res.js)| Medium | binary tree|
 |1457|[Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/submissions/) | [JavaScript](./src/pseudo-palindromic-paths-in-a-binary-tree/res.js)| Medium | binary tree|
+|1475|[Final Prices With a Special Discount in a Shop](https://leetcode.com/problems/final-prices-with-a-special-discount-in-a-shop/submissions/) | [JavaScript](./src/1475.final-prices-with-a-special-discount-in-a-shop.js)| Easy | monotonic stack |[商品折扣后的最终价格](https://leetcode.cn/problems/final-prices-with-a-special-discount-in-a-shop/submissions/)|
 |1530|[Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/submissions/) | [JavaScript](./src/number-of-good-leaf-nodes-pairs/res.js)| Medium | binary tree|
 |1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/submissions/) | [JavaScript](./src/even-odd-tree/res.js)| Medium | binary tree|
 |1876|[Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/submissions/) | [JavaScript](./src/1876.substrings-of-size-three-with-distinct-characters.js)| Easy | sliding window |
