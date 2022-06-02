@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 252 Solutions**:
+**Progress: 253 Solutions**:
 
 | ID | Title | Solution | Difficulty | category| Chinese|
 |---| ----- | -------- | ---------- |  ------- | ------- |
@@ -242,6 +242,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |1530|[Number of Good Leaf Nodes Pairs](https://leetcode.com/problems/number-of-good-leaf-nodes-pairs/submissions/) | [JavaScript](./src/number-of-good-leaf-nodes-pairs/res.js)| Medium | binary tree|
 |1609|[Even Odd Tree](https://leetcode.com/problems/even-odd-tree/submissions/) | [JavaScript](./src/even-odd-tree/res.js)| Medium | binary tree|
 |1876|[Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/submissions/) | [JavaScript](./src/1876.substrings-of-size-three-with-distinct-characters.js)| Easy | sliding window |
+|2104|[Sum of Subarray Ranges](https://leetcode.com/problems/sum-of-subarray-ranges/submissions/) | [JavaScript](./src/2104.sum-of-subarray-ranges.js)| Medium | monotonic stack | [子数组范围和](https://leetcode.cn/problems/sum-of-subarray-ranges/submissions/) |
 |2230|[Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/submissions/) | [JavaScript](./src/maximum-twin-sum-of-a-linked-list/res.js)| Medium | linked list|
 |2236|[Root Equals Sum of Children](https://leetcode.com/problems/root-equals-sum-of-children/submissions/) | [JavaScript](./src/root-equals-sum-of-children/res.js)| Easy | binary tree|
 |2264|[Largest 3-Same-Digit Number in String](https://leetcode.com/problems/largest-3-same-digit-number-in-string/submissions/) | [JavaScript](./src/2264.largest-3-same-digit-number-in-string.js)| Easy | sliding window |
