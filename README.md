@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 253 Solutions**:
+**Progress: 254 Solutions**:
 
 | ID | Title | Solution | Difficulty | category| Chinese|
 |---| ----- | -------- | ---------- |  ------- | ------- |
@@ -185,6 +185,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |797|[All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/submissions/) | [JavaScript](./src/all-paths-from-source-to-target/res.js)|Medium| graph |
 |812|[Largest Triangle Area](https://leetcode.com/problems/largest-triangle-area/submissions/) | [JavaScript](./src/812.largest-triangle-area.js)|Easy|
 |814|[Binary Tree Pruning](https://leetcode.com/problems/binary-tree-pruning/submissions/) | [JavaScript](./src/binary-tree-pruning/res.js)|Medium| binary tree |
+|829|[Consecutive Numbers Sum](https://leetcode.com/problems/consecutive-numbers-sum/submissions/) | [JavaScript](./src/829.consecutive-numbers-sum.js)|Hard|  |[连续整数求和](https://leetcode.cn/problems/consecutive-numbers-sum/submissions/)|
 |865|[Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/submissions/) | [JavaScript](./src/smallest-subtree-with-all-the-deepest-nodes/res.js)|Medium| binary search |
 |872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/submissions/) | [JavaScript](./src/leaf-similar-trees/res.js)|Easy| binary search |
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/submissions/) | [JavaScript](./src/koko-eating-bananas/res.js)|Medium| binary search |
