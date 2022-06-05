@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 255 Solutions**:
+**Progress: 257 Solutions**:
 
 | ID | Title | Solution | Difficulty | category| Chinese|
 |---| ----- | -------- | ---------- |  ------- | ------- |
@@ -261,7 +261,10 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |2287|[Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/submissions/) | [JavaScript](./src/2287.rearrange-characters-to-make-target-string.js)| Easy |[重排字符形成目标字符串](https://leetcode.cn/problems/rearrange-characters-to-make-target-string/submissions/)|
 |2288|[Apply Discount to Prices](https://leetcode.com/problems/apply-discount-to-prices/submissions/) | [JavaScript](./src/2288.apply-discount-to-prices.js)| Medium |[价格减免](https://leetcode.com/problems/apply-discount-to-prices/submissions/)|
 |2289|[Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/submissions/) | [JavaScript](./src/2289.steps-to-make-array-non-decreasing.js)| Medium | monotonic stack | [使数组按非递减顺序排列](https://leetcode.cn/problems/steps-to-make-array-non-decreasing/submissions/)|
-|2290|[Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/submissions/) | [Python](./src/2280.2290.minimum-obstacle-removal-to-reach-corner.py)| Hard | graph bfs | [到达角落需要移除障碍物的最小数目](https://leetcode.cn/problems/minimum-obstacle-removal-to-reach-corner/submissions/)|
+|2290|[Minimum Obstacle Removal to Reach Corner](https://leetcode.com/problems/minimum-obstacle-removal-to-reach-corner/submissions/) | [Python](./src/2290.minimum-obstacle-removal-to-reach-corner.py)| Hard | graph bfs | [到达角落需要移除障碍物的最小数目](https://leetcode.cn/problems/minimum-obstacle-removal-to-reach-corner/submissions/)|
+|2293|[Min Max Game](https://leetcode.com/problems/min-max-game/submissions/) | [JavaScript](./src/2293.min-max-game.js)| Easy |  | [极大极小游戏](https://leetcode.cn/problems/min-max-game/submissions/)|
+|2294|[Partition Array Such That Maximum Difference Is K](https://leetcode.com/problemspartition-array-such-that-maximum-difference-is-k/submissions/) | [JavaScript](./src/2294.partition-array-such-that-maximum-difference-is-k.js)| Medium |  | [划分数组使最大差为 K](https://leetcode.cn/problems/partition-array-such-that-maximum-difference-is-k/submissions/)|
+|2295|[Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array/submissions/) | [JavaScript](./src/2295.replace-elements-in-an-array.js)| Medium |  | [替换数组中的元素](https://leetcode.cn/problems/replace-elements-in-an-array/submissions/)|
 |面试题 04.06. 后继者|[Successor Lcci](https://leetcode.cn/problems/successor-lcci/submissions/) | [JavaScript](./src/successor-lcci/res.js)|Medium| | binary tree|
 |面试题 17.11. 单词距离|[面试题 17.11. 单词距离](https://leetcode.cn/problems/find-closest-lcci/submissions/) | [JavaScript](./src/successor-lcci/res.js)|Medium|
 |剑指 Offer II 114. 外星文字典|[剑指 Offer II 114. 外星文字典](https://leetcode.cn/problems/Jf1JuT/submissions/) | [JavaScript](./src/Jf1JuT/res.js)|Hard|
