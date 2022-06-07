@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 262 Solutions**:
+**Progress: 263 Solutions**:
 
 | ID | Title | Solution | Difficulty | category| Chinese|
 |---| ----- | -------- | ---------- |  ------- | ------- |
@@ -260,6 +260,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |2283|[Check if Number Has Equal Digit Count and Digit Value](https://leetcode.com/problems/check-if-number-has-equal-digit-count-and-digit-value/submissions/) | [JavaScript](./src/2283.check-if-number-has-equal-digit-count-and-digit-value.js)| Easy |[判断一个数的数字计数是否等于数位的值](https://leetcode.cn/problems/check-if-number-has-equal-digit-count-and-digit-value/submissions/)|
 |2284|[Sender With Largest Word Count](https://leetcode.com/problems/sender-with-largest-word-count/submissions/) | [JavaScript](./src/2284.sender-with-largest-word-count.js)| Medium |[最多单词数的发件人](https://leetcode.cn/problems/sender-with-largest-word-count/submissions/)|
 |2285|[Maximum Total Importance of Roads](https://leetcode.com/problems/maximum-total-importance-of-roads/submissions/) | [JavaScript](./src/2285.maximum-total-importance-of-roads.js)| Medium |[道路的最大总重要性](https://leetcode.cn/problems/maximum-total-importance-of-roads/submissions/)|
+|2286|[Booking Concert Tickets in Groups](https://leetcode.com/problems/booking-concert-tickets-in-groups/submissions/) | [JavaScript](./src/2286.booking-concert-tickets-in-groups.js)| Hard |[以组为单位订音乐会的门票](https://leetcode.cn/problems/booking-concert-tickets-in-groups/submissions/)|
 |2287|[Rearrange Characters to Make Target String](https://leetcode.com/problems/rearrange-characters-to-make-target-string/submissions/) | [JavaScript](./src/2287.rearrange-characters-to-make-target-string.js)| Easy |[重排字符形成目标字符串](https://leetcode.cn/problems/rearrange-characters-to-make-target-string/submissions/)|
 |2288|[Apply Discount to Prices](https://leetcode.com/problems/apply-discount-to-prices/submissions/) | [JavaScript](./src/2288.apply-discount-to-prices.js)| Medium |[价格减免](https://leetcode.com/problems/apply-discount-to-prices/submissions/)|
 |2289|[Steps to Make Array Non-decreasing](https://leetcode.com/problems/steps-to-make-array-non-decreasing/submissions/) | [JavaScript](./src/2289.steps-to-make-array-non-decreasing.js)| Medium | monotonic stack | [使数组按非递减顺序排列](https://leetcode.cn/problems/steps-to-make-array-non-decreasing/submissions/)|
