@@ -1,38 +1,36 @@
 /**
  * @param {number[]} piles
- * @param {number} H
+ * @param {number} h
  * @return {number}
  */
-var minEatingSpeed = function (piles, H) {
-  let left = 1;
-  let right = getMax(piles) + 1;
-  while (left < right) {
-    const mid = parseInt(left + (right - left) / 2);
-
-    if (canfinished(piles, mid, H)) {
-      right = mid;
-    } else {
-      left = mid + 1;
-    }
+ var minEatingSpeed = function(piles, h) {
+  let l = 1;
+  let r = getMax(piles) + 1
+  while(l < r) {
+      let mid =  l + r >> 1;
+      if(canfinished(piles, mid, h)) {
+          r = mid;
+      } else {
+          l = mid + 1
+      }
   }
-  return left;
+  return l
 };
 
 function getMax(piles) {
-  let max = Number.MIN_VALUE;
-
-  for (let i = 0; i < piles.length; i++) {
-    max = piles[i] > max ? piles[i] : max;
+  let max = piles[0];
+  for(let i =1; i < piles.length; i++) {
+      if(piles[i] > max) {
+          max = piles[i]
+      }
   }
-  return max;
+  return max
 }
 
-function canfinished(piles, speed, H) {
-  let time = 0;
-  for (let i = 0; i < piles.length; i++) {
-    time = time +  Math.floor(piles[i] / speed) + (piles[i] % speed > 0 ? 1 : 0);
-  }
-  return time <= H;
+function canfinished(piles, speed, h) {
+let time = 0
+for(const pile of piles) {
+   time = time + Math.floor(pile / speed) + (pile % speed > 0 ? 1 : 0)
 }
-
-console.log(minEatingSpeed([3, 6, 7, 11], 8));
+return time <= h
+}
