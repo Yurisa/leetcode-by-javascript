@@ -4,11 +4,12 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 264 Solutions**:
+**Progress: 265 Solutions**:
 
 | ID | Title | Solution | Difficulty | category| Chinese|
 |---| ----- | -------- | ---------- |  ------- | ------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/submissions/) | [JavaScript](./src/two-sum/res.js)|Easy|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/submissions/) | [JavaScript](./src/2.add-two-numbers.js)|Medium||[两数相加](https://leetcode.cn/problems/add-two-numbers/submissions/)|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/) | [JavaScript](./src/longest-substring-without-repeating-characters/res.js)|Medium|  sliding window |
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/submissions/)| [JavaScript](./src/longest-palindromic-substring/res.js)| Medium| dp |
 |6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/submissions/)| [JavaScript](./src/zigzag-conversion/res.js)| Medium|
