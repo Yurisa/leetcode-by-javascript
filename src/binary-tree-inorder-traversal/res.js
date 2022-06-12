@@ -14,7 +14,7 @@
   const result = [];
   traverse(root);
   function traverse(node) {
-    if (!node || !node.val) return;
+    if (!node) return;
     traverse(node.left);
     result.push(node.val);
     traverse(node.right);
