@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 267 Solutions**:
+**Progress: 268 Solutions**:
 
 | ID | Title | Solution | Difficulty | category| Chinese|
 |---| ----- | -------- | ---------- |  ------- | ------- |
@@ -196,6 +196,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/submissions/) | [JavaScript](./src/koko-eating-bananas/res.js)|Medium| binary search |
 |876|[Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/submissions/) | [JavaScript](./src/middle-of-the-linked-list/res.js)|Easy| linkedlist |
 |887|[Super Egg Drop](https://leetcode.com/problems/super-egg-drop/submissions/) | [JavaScript](./src/super-egg-drop/res.js)|Hard|
+|890|[Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/submissions/) | [JavaScript](./src/890.find-and-replace-pattern.js)|Medium||[查找和替换模式](https://leetcode.cn/problems/find-and-replace-pattern/submissions/)|
 |894|[All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/submissions/) | [JavaScript](./src/all-possible-full-binary-trees/res.js)|Medium| binary tree|
 |896|[Monotonic Array](https://leetcode.com/problems/monotonic-array/submissions/) | [JavaScript](./src/896.monotonic-array.js)|Easy||[单调数列](https://leetcode.cn/problems/monotonic-array/submissions/)|
 |897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/submissions/) | [JavaScript](./src/increasing-order-search-tree/res.js)|Easy| binary tree|
