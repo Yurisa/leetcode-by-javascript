@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 268 Solutions**:
+**Progress: 269 Solutions**:
 
 | ID | Title | Solution | Difficulty | category| Chinese|
 |---| ----- | -------- | ---------- |  ------- | ------- |
@@ -227,6 +227,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |1026|[Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestors/submissions/) | [JavaScript](./src/maximum-difference-between-node-and-ancestor/res.js)|Medium|binary tree|
 |1037|[Valid Boomerang](https://leetcode.com/problems/valid-boomerang/submissions/) | [JavaScript](./src/1037.valid-boomerang.js)| Easy || [有效的回旋镖](https://leetcode.com/problems/valid-boomerang/submissions/)|
 |1038|[Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/submissions/) | [JavaScript](./src/binary-search-tree-to-greater-sum-tree/res.js)|Medium|binary tree|
+|1051|[Height Checker](https://leetcode.cn/problems/height-checker/submissions/) | [JavaScript](./src/1051.height-checker.js)|Easy||[高度检查器](https://leetcode.cn/problems/height-checker/submissions/)|
 |1080|[Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/submissions/) | [JavaScript](./src/insufficient-nodes-in-root-to-leaf-paths/res.js)|Medium|binary tree|
 |1110|[Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/submissions/) | [JavaScript](./src/delete-nodes-and-return-forest/res.js)|Medium| binary tree|
 |1122|[Relative Sort Array](https://leetcode.com/problems/relative-sort-array/submissions/) | [JavaScript](./src/relative-sort-array/res.js)|Easy|
