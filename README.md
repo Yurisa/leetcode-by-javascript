@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 269 Solutions**:
+**Progress: 270 Solutions**:
 
 | ID | Title | Solution | Difficulty | category| Chinese|
 |---| ----- | -------- | ---------- |  ------- | ------- |
@@ -274,6 +274,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |2293|[Min Max Game](https://leetcode.com/problems/min-max-game/submissions/) | [JavaScript](./src/2293.min-max-game.js)| Easy |  | [极大极小游戏](https://leetcode.cn/problems/min-max-game/submissions/)|
 |2294|[Partition Array Such That Maximum Difference Is K](https://leetcode.com/problemspartition-array-such-that-maximum-difference-is-k/submissions/) | [JavaScript](./src/2294.partition-array-such-that-maximum-difference-is-k.js)| Medium |  | [划分数组使最大差为 K](https://leetcode.cn/problems/partition-array-such-that-maximum-difference-is-k/submissions/)|
 |2295|[Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array/submissions/) | [JavaScript](./src/2295.replace-elements-in-an-array.js)| Medium |  | [替换数组中的元素](https://leetcode.cn/problems/replace-elements-in-an-array/submissions/)|
+|2302|[Replace Elements in an Array](https://leetcode.cn/problems/count-subarrays-with-score-less-than-k/submissions/) | [JavaScript](./src/2302.count-subarrays-with-score-less-than-k.js)| Hard | sliding window | [统计得分小于 K 的子数组数目](https://leetcode.cn/problems/count-subarrays-with-score-less-than-k/submissions/)|
 |面试题 04.06. 后继者|[Successor Lcci](https://leetcode.cn/problems/successor-lcci/submissions/) | [JavaScript](./src/successor-lcci/res.js)|Medium| | binary tree|
 |面试题 17.11. 单词距离|[面试题 17.11. 单词距离](https://leetcode.cn/problems/find-closest-lcci/submissions/) | [JavaScript](./src/successor-lcci/res.js)|Medium|
 |剑指 Offer II 114. 外星文字典|[剑指 Offer II 114. 外星文字典](https://leetcode.cn/problems/Jf1JuT/submissions/) | [JavaScript](./src/Jf1JuT/res.js)|Hard|
