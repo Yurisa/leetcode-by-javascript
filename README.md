@@ -156,8 +156,8 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/submissions/) | [JavaScript](./src/most-frequent-subtree-sum/res.js)|Medium| binary tree |
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/submissions/) | [JavaScript](./src/fibonacci-number/res.js)|Easy|
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/submissions/) | [JavaScript](./src/find-bottom-left-tree-value/res.js)|Medium| binary tree |
-|515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/submissions/) | [JavaScript](./src/find-largest-value-in-each-tree-row/res.js)|Medium| binary tree |
-|530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/submissions/) | [JavaScript](./src/minimum-absolute-difference-in-bst/res.js)|Easy| binary tree |
+|515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/submissions/) | [JavaScript](./src/find-largest-value-in-each-tree-row/res.js)|Medium| binary tree | [在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/submissions/)|
+|530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/submissions/) | [JavaScript](./src/minimum-absolute-difference-in-bst/res.js)|Easy| binary tree | [二叉搜索树的最小绝对差](https://leetcode.cn/problems/minimum-absolute-difference-in-bst/submissions/)|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/submissions/) | [JavaScript](./src/convert-bst-to-greater-tree/res.js)|Medium| binary tree |
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/submissions/) | [JavaScript](./src/diameter-of-binary-tree/res.js)|Easy| binary tree |
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/submissions/) | [JavaScript](./src/subarray-sum-equals-k/res.js)|Medium| range |
