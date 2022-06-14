@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 270 Solutions**:
+**Progress: 271 Solutions**:
 
 | ID | Title | Solution | Difficulty | category| Chinese|
 |---| ----- | -------- | ---------- |  ------- | ------- |
@@ -151,6 +151,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |478|[Generate Random Point in a Circle](https://leetcode.com/problems/matchsticks-to-square/submissions/) |  [JavaScript](./src/478.generate-random-point-in-a-circle.js) | Medium | | [火柴拼正方形](https://leetcode.cn/problems/matchsticks-to-square/submissions/) |
 |496|[Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/submissions/) |  [JavaScript](./src/next-greater-element-i/res.js) | Easy | stack |
 |497|[Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/submissions/) |  [JavaScript](./src/497.random-point-in-non-overlapping-rectangles.js) | Medium | presum、binary search | [非重叠矩形中的随机点](https://leetcode.cn/problems/random-point-in-non-overlapping-rectangles/submissions/)|
+|498|[Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/submissions/) |  [JavaScript](./src/498.diagonal-traverse.js) | Medium | 数学题遍历 | [对角线遍历](https://leetcode.cn/problems/diagonal-traverse/submissions/)|
 |501|[Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/submissions/) | [JavaScript](./src/find-mode-in-binary-search-tree/res.js)|Easy| binary tree |
 |508|[Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/submissions/) | [JavaScript](./src/most-frequent-subtree-sum/res.js)|Medium| binary tree |
 |509|[Fibonacci Number](https://leetcode.com/problems/fibonacci-number/submissions/) | [JavaScript](./src/fibonacci-number/res.js)|Easy|
