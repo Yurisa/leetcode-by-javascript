@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 272 Solutions**:
+**Progress: 273 Solutions**:
 
 | ID | Title | Solution | Difficulty | category| Chinese|
 |---| ----- | -------- | ---------- |  ------- | ------- |
@@ -59,8 +59,8 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/submissions/) | [JavaScript](./src/unique-binary-search-trees/res.js)|Medium| binary tree |
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/) | [JavaScript](./src/validate-binary-search-tree/res.js)|Medium| BST |
 |99|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/submissions/) | [JavaScript](./src/recover-binary-search-tree/res.js)|Medium| binary tree |
-|100|[Same Tree](https://leetcode.com/problems/same-tree/submissions/) | [JavaScript](./src/same-tree/res.js)|Easy| binary tree |
-|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/submissions/) | [JavaScript](./src/symmetric-tree/res.js)|Easy| binary tree |
+|100|[Same Tree](https://leetcode.com/problems/same-tree/submissions/) | [JavaScript](./src/same-tree/res.js)|Easy| binary tree |[相同的树](https://leetcode.cn/problems/same-tree/submissions/)|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/submissions/) | [JavaScript](./src/symmetric-tree/res.js)|Easy| binary tree |[对称二叉树](https://leetcode.cn/problems/symmetric-tree/submissions/)|
 |102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/submissions/) | [JavaScript](./src/binary-tree-level-order-traversal/res.js)|Medium|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/submissions/) | [JavaScript](./src/binary-tree-zigzag-level-order-traversal/res.js)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/) | [JavaScript](./src/maximum-depth-of-binary-tree/res.js)|Easy| binary tree |
@@ -277,6 +277,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |2294|[Partition Array Such That Maximum Difference Is K](https://leetcode.com/problemspartition-array-such-that-maximum-difference-is-k/submissions/) | [JavaScript](./src/2294.partition-array-such-that-maximum-difference-is-k.js)| Medium |  | [划分数组使最大差为 K](https://leetcode.cn/problems/partition-array-such-that-maximum-difference-is-k/submissions/)|
 |2295|[Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array/submissions/) | [JavaScript](./src/2295.replace-elements-in-an-array.js)| Medium |  | [替换数组中的元素](https://leetcode.cn/problems/replace-elements-in-an-array/submissions/)|
 |2302|[Replace Elements in an Array](https://leetcode.cn/problems/count-subarrays-with-score-less-than-k/submissions/) | [JavaScript](./src/2302.count-subarrays-with-score-less-than-k.js)| Hard | sliding window | [统计得分小于 K 的子数组数目](https://leetcode.cn/problems/count-subarrays-with-score-less-than-k/submissions/)|
+|2304|[Minimum Path Cost in a Grid](https://leetcode.com/problems/minimum-path-cost-in-a-grid/submissions/) | [JavaScript](./src/2304.minimum-path-cost-in-a-grid.js)| Medium | dp | [网格中的最小路径代价](https://leetcode.cn/problems/minimum-path-cost-in-a-grid/submissions/)|
 |面试题 04.06. 后继者|[Successor Lcci](https://leetcode.cn/problems/successor-lcci/submissions/) | [JavaScript](./src/successor-lcci/res.js)|Medium| | binary tree|
 |面试题 17.11. 单词距离|[面试题 17.11. 单词距离](https://leetcode.cn/problems/find-closest-lcci/submissions/) | [JavaScript](./src/successor-lcci/res.js)|Medium|
 |剑指 Offer II 114. 外星文字典|[剑指 Offer II 114. 外星文字典](https://leetcode.cn/problems/Jf1JuT/submissions/) | [JavaScript](./src/Jf1JuT/res.js)|Hard|
