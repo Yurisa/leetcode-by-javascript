@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 273 Solutions**:
+**Progress: 274 Solutions**:
 
 | ID | Title | Solution | Difficulty | category| Chinese|
 |---| ----- | -------- | ---------- |  ------- | ------- |
@@ -158,6 +158,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/submissions/) | [JavaScript](./src/find-bottom-left-tree-value/res.js)|Medium| binary tree |
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/submissions/) | [JavaScript](./src/find-largest-value-in-each-tree-row/res.js)|Medium| binary tree | [在每个树行中找最大值](https://leetcode.cn/problems/find-largest-value-in-each-tree-row/submissions/)|
 |530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/submissions/) | [JavaScript](./src/minimum-absolute-difference-in-bst/res.js)|Easy| binary tree | [二叉搜索树的最小绝对差](https://leetcode.cn/problems/minimum-absolute-difference-in-bst/submissions/)|
+|532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/submissions/) | [JavaScript](./src/532.k-diff-pairs-in-an-array.js)|Medium| sort hashmap | [数组中的 k-diff 数对](https://leetcode.cn/problems/k-diff-pairs-in-an-array/submissions/)|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/submissions/) | [JavaScript](./src/convert-bst-to-greater-tree/res.js)|Medium| binary tree |
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/submissions/) | [JavaScript](./src/diameter-of-binary-tree/res.js)|Easy| binary tree |
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/submissions/) | [JavaScript](./src/subarray-sum-equals-k/res.js)|Medium| range |
