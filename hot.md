@@ -9,6 +9,7 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 
 [33.搜索旋转排序数组](./src/33.search-in-rotated-sorted-array.js) 提示：mid与边界相比然后在连续区间进行查找
 
+[146.LRU缓存机制](./src/146.lru-cache.js) 提示使用jsmap 并使用keys().next.value
 [215]
 [排序链表]
 

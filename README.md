@@ -17,7 +17,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/submissions/) | [JavaScript](./src/longest-common-prefix/res.js)|Easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/submissions/) | [JavaScript](./src/3sum/res.js)|Medium|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/) | [JavaScript](./src/letter-combinations-of-a-phone-number/res.js)|Medium|backtrack|
-|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/) | [JavaScript](./src/remove-nth-node-from-end-of-list/submissions/res.js)|Medium|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/) | [JavaScript](./src/remove-nth-node-from-end-of-list/res.js)|Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/) | [JavaScript](./src/valid-parentheses/res.js)|Easy|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/submissions/) | [JavaScript](./src/merge-two-sorted-lists/res.js)|Easy|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/submissions/) | [JavaScript](./src/generate-parentheses/res.js)|Medium|
@@ -27,7 +27,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |33 * |[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/) | [JavaScript](./src/search-in-rotated-sorted-array/res.js)|Medium| binary search |
 |34|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/submissions/) | [JavaScript](./src/find-first-and-last-position-of-element-in-sorted-array/res.js)|Medium|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/) | [JavaScript](./src/35.search-insert-position.js)|Easy| bianry search |
-|39|[Combination Sum](https://leetcode.com/problems/combination-sum/submissions/) | [JavaScript](./src/combination-sum/submissions/res.js)|Medium| backtrack |
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum/submissions/) | [JavaScript](./src/combination-sum/res.js)|Medium| backtrack |
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/submissions/) | [JavaScript](./src/combination-sum-ii/res.js)|Medium| backtrack |
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/submissions/) | [JavaScript](./src/trapping-rain-water/res.js)|Hard| dp |
 |43|[Multiply Strings](https://leetcode.com/problems/multiply-strings/submissions/) | [JavaScript](./src/multiply-strings/res.js)|Medium|
