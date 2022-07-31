@@ -10,6 +10,9 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [33.搜索旋转排序数组](./src/33.search-in-rotated-sorted-array.js) 提示：mid与边界相比然后在连续区间进行查找
 [34.在排序数组中查找元素的第一个和最后一个位置](./src/34.find-first-and-last-position-of-element-in-sorted-array.js)
 
+[39.组合总和](./src/39.combination-sum.js)
+[46.全排列](./src/46.permutations.js)
+
 [146.LRU缓存机制](./src/146.lru-cache.js) 提示使用jsmap 并使用keys().next.value
 [215]
 [排序链表]
