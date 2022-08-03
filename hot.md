@@ -12,6 +12,7 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 
 [39.组合总和](./src/39.combination-sum.js)
 [46.全排列](./src/46.permutations.js)
+[42.接雨水](./src/42.trapping-rain-water.js) 提示：双指针，左右取区间最大值，实际计算取最短的计算
 
 [146.LRU缓存机制](./src/146.lru-cache.js) 提示使用jsmap 并使用keys().next.value
 [215]
