@@ -17,6 +17,7 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [105.从前序与中序遍历序列构造二叉树](./src/105.construct-binary-tree-from-preorder-and-inorder-traversal.js)
 [128.最长连续序列](./src/128.longest-consecutive-sequence.js) 提示：排序+遍历即可
 [146.LRU缓存机制](./src/146.lru-cache.js) 提示使用jsmap 并使用keys().next.value
+[148.排序链表](./src/148.sort-list.js)提示：快慢指针得出中点，然后使用归并排序
 [215]
 [排序链表]
 
