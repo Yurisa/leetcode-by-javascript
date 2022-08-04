@@ -13,6 +13,7 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [39.组合总和](./src/39.combination-sum.js)
 [46.全排列](./src/46.permutations.js)
 [42.接雨水](./src/42.trapping-rain-water.js) 提示：双指针，左右取区间最大值，实际计算取最短的计算
+[49.字母异位词分组](./src/49.group-anagrams.js) 提示：编码encode 阿斯克码 +哈希表
 
 [105.从前序与中序遍历序列构造二叉树](./src/105.construct-binary-tree-from-preorder-and-inorder-traversal.js)
 [128.最长连续序列](./src/128.longest-consecutive-sequence.js) 提示：排序+遍历即可
