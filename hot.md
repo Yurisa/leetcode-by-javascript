@@ -14,14 +14,17 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [46.全排列](./src/46.permutations.js)
 [42.接雨水](./src/42.trapping-rain-water.js) 提示：双指针，左右取区间最大值，实际计算取最短的计算
 [49.字母异位词分组](./src/49.group-anagrams.js) 提示：编码encode 阿斯克码 +哈希表
-
+[53.最大子数组和](./src/53.maximum-subarray.js) 提示：动态规划
+[300.最长递增子序列](./src/300.longest-increasing-subsequence.js) 提示：动态规划
+[79.单词搜索](./src/79.word-search.js) 提示：dfs direactions数组 + 回溯的时候visited记录访问过的节点
 [105.从前序与中序遍历序列构造二叉树](./src/105.construct-binary-tree-from-preorder-and-inorder-traversal.js)
 [128.最长连续序列](./src/128.longest-consecutive-sequence.js) 提示：排序+遍历即可
 [146.LRU缓存机制](./src/146.lru-cache.js) 提示使用jsmap 并使用keys().next.value
 [148.排序链表](./src/148.sort-list.js)提示：快慢指针得出中点，然后使用归并排序
-[215]
-[排序链表]
 
+[215]
+
+[n皇后]
 
 [快速排序]()
 [归并排序]()
