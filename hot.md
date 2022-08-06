@@ -14,8 +14,15 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [46.全排列](./src/46.permutations.js)
 [42.接雨水](./src/42.trapping-rain-water.js) 提示：双指针，左右取区间最大值，实际计算取最短的计算
 [49.字母异位词分组](./src/49.group-anagrams.js) 提示：编码encode 阿斯克码 +哈希表
+
+贪心| 动态 只要是求和求次数不求具体的路径的都可以考虑动态规划
+[55.跳跃游戏](./src/55.jump-game.js) 提示：贪心，记录能跳到最远的下标
 [53.最大子数组和](./src/53.maximum-subarray.js) 提示：动态规划
+[62.不同路径](./src/62.unique-paths.js) 提示：动态规划
+[64.最小路径和](./src/64.minimum-path-sum.js) 提示：动态规划
 [300.最长递增子序列](./src/300.longest-increasing-subsequence.js) 提示：动态规划
+[152.乘积最大子数组](./src/152.maximum-product-subarray.js) 提示：注意负数情况 记录当前最大的值
+
 [79.单词搜索](./src/79.word-search.js) 提示：dfs direactions数组 + 回溯的时候visited记录访问过的节点
 [105.从前序与中序遍历序列构造二叉树](./src/105.construct-binary-tree-from-preorder-and-inorder-traversal.js)
 [128.最长连续序列](./src/128.longest-consecutive-sequence.js) 提示：排序+遍历即可
