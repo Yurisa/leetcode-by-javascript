@@ -23,6 +23,12 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [300.最长递增子序列](./src/300.longest-increasing-subsequence.js) 提示：动态规划
 [152.乘积最大子数组](./src/152.maximum-product-subarray.js) 提示：注意负数情况 记录当前最大的值
 
+
+前缀和
+[560.和为k的子数组](./src/560.subarray-sum-equals-k.js) 提示：前缀和，时间复杂度关系可以找差在前缀和中出现的次数
+[303.区域和检索 - 数组不可变](./src/303.range-sum-query-immutable.js) 提示：前缀和，首项为0
+[304.二维区域和检索 - 矩阵不可变](./src/304.range-sum-query-2-d-immutable.js) 提示：二位的有点难的要清楚preSum[row][col]代表的是定点左上的区域，而实际矩形martix[row][col]下标都要-1
+
 [79.单词搜索](./src/79.word-search.js) 提示：dfs direactions数组 + 回溯的时候visited记录访问过的节点
 [105.从前序与中序遍历序列构造二叉树](./src/105.construct-binary-tree-from-preorder-and-inorder-traversal.js)
 [128.最长连续序列](./src/128.longest-consecutive-sequence.js) 提示：排序+遍历即可

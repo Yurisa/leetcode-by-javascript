@@ -42,10 +42,10 @@ var subarraySum = function (nums, k) {
     sum0_i += nums[i];
     // 找前缀和nums[0...j]的出现次数
     const sum0_j = sum0_i - k;
-    if(preSum[sum0_j]) {
-      ret += preSum[sum0_j]
+    if (preSum[sum0_j]) {
+      ret += preSum[sum0_j];
     }
-    preSum[sum0_i] = (preSum[sum0_i] || 0) + 1
+    preSum[sum0_i] = (preSum[sum0_i] || 0) + 1;
   }
   return ret;
 };

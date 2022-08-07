@@ -124,8 +124,8 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/submissions/) | [JavaScript](./src/move-zeroes/res.js)|Easy| array |
 |297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/submissions/) | [JavaScript](./src/serialize-and-deserialize-binary-tree/res.js)|Hard| binary tree |
 |300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/submissions/)| [JavaScript](./src/longest-increasing-subsequence/res.js) | Medium| dp |
-|303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/submissions/)| [JavaScript](./src/range-sum-query-immutable/res.js) | Easy| range |
-|304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/submissions/)| [JavaScript](./src/range-sum-query-2d-immutable/res.js) | Medium | range |
+|303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/submissions/)| [JavaScript](./src/range-sum-query-immutable/res.js) | Easy| range preSum|
+|304|[Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/submissions/)| [JavaScript](./src/range-sum-query-2-d-immutable/res.js) | Medium | range preSum|
 |309|[Best Time to Buy and Sell Stock with Cooldow](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/submissions/)| [JavaScript](./src/best-time-to-buy-and-sell-stock-with-cooldown/res.js) | Medium | dp |
 |322|[Coin Change](https://leetcode.com/problems/coin-change/solution/) | [JavaScript](./src/coin-change/res.js) | Medium| dp |
 |331|[Verify Preorder Serialization of a Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/submissions/) |  [JavaScript](./src/verify-preorder-serialization-of-a-binary-tree/res.js) | Medium | binary tree |
@@ -161,7 +161,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |532|[K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/submissions/) | [JavaScript](./src/532.k-diff-pairs-in-an-array.js)|Medium| sort hashmap | [数组中的 k-diff 数对](https://leetcode.cn/problems/k-diff-pairs-in-an-array/submissions/)|
 |538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/submissions/) | [JavaScript](./src/convert-bst-to-greater-tree/res.js)|Medium| binary tree |
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/submissions/) | [JavaScript](./src/diameter-of-binary-tree/res.js)|Easy| binary tree |
-|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/submissions/) | [JavaScript](./src/subarray-sum-equals-k/res.js)|Medium| range |
+|560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/submissions/) | [JavaScript](./src/subarray-sum-equals-k/res.js)|Medium| range preSum |
 |563|[Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/submissions/) | [JavaScript](./src/binary-tree-tilt/res.js)|Easy| binary tree |
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/submissions/) | [JavaScript](./src/permutation-in-string/res.js)|Medium| sliding window |
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/submissions/) | [JavaScript](./src/subtree-of-another-tree/res.js)|Easy| binary tree |
