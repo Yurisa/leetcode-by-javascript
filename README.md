@@ -82,6 +82,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/submissions/) | [JavaScript](./src/binary-tree-maximum-path-sum/res.js)| Hard | binary tree |
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/submissions/) | [JavaScript](./src/sum-root-to-leaf-numbers/res.js)| Medium | binary tree |
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/submissions/) | [JavaScript](./src/palindrome-partitioning/res.js)| Medium |  backtack |
+|139|[Word Break](https://leetcode.com/problems/word-break/submissions/) | [JavaScript](./src/139.word-break.js)|Meium| dp |
 |140|[Word Break II](https://leetcode.com/problems/word-break-ii/submissions/) | [JavaScript](./src/word-break-ii/res.js)|Hard| backtrack |
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/submissions/) | [JavaScript](./src/linked-list-cycle/res.js)|Easy|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/submissions/) | [JavaScript](./src/linked-list-cycle-ii/res.js)|Medium|

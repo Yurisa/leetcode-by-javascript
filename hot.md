@@ -46,6 +46,7 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 
 [n皇后]
 
+[155.最小栈](./src/155.min-stack.js) 提示：辅助栈记录当前栈最小值，保持栈顶为最小值。出栈时判断与辅助栈顶元素是否相等，相等则辅助栈出栈。
 [快速排序]()
 [归并排序]()
 [冒泡排序]
