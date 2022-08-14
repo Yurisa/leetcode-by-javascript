@@ -49,6 +49,9 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 dfs 
 [200.岛屿数量](./src/200.number-of-islands.js) 提示：dfs,填海法
 
+
+二分查找
+[611.有效三角形](./src/611.valid-triangle-number.js) 提示：排序+双指针 排序 + 二分查找 排序+暴力
 [215]
 
 [n皇后]
