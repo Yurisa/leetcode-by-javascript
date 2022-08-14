@@ -29,6 +29,8 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [152.乘积最大子数组](./src/152.maximum-product-subarray.js) 提示：注意负数情况 记录当前最大的值
 [139.单词拆分](./src/139.word-break.js) 提示：类似最长递增子序列 双重循环判断子串是否符合要求
 
+滑动窗口
+
 前缀和
 [560.和为k的子数组](./src/560.subarray-sum-equals-k.js) 提示：前缀和，时间复杂度关系可以找差在前缀和中出现的次数
 [303.区域和检索 - 数组不可变](./src/303.range-sum-query-immutable.js) 提示：前缀和，首项为0
@@ -43,11 +45,15 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [148.排序链表](./src/148.sort-list.js)提示：快慢指针得出中点，然后使用归并排序
 [206.反转链表](./src/206.reverse-linked-list.js) 提示：注意递归写法
 
+dfs 
+[200.岛屿数量](./src/200.number-of-islands.js) 提示：dfs,填海法
+
 [215]
 
 [n皇后]
 
 [155.最小栈](./src/155.min-stack.js) 提示：辅助栈记录当前栈最小值，保持栈顶为最小值。出栈时判断与辅助栈顶元素是否相等，相等则辅助栈出栈。
+
 
 双指针
 [647.回文子串](./src/647.palindromic-substrings.js) 提示：遍历出所有的子串，记录子串的顺序和逆序战展示作为判断
