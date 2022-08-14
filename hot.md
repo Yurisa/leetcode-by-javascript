@@ -15,6 +15,7 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [46.全排列](./src/46.permutations.js) 提示：回溯
 [77.组合](./src/77.combinations.js) 提示：回溯比78简单一点，数组长度为k时收集
 [78.子集](./src/78.subsets.js) 提示：回溯，需要根据子集长度收集结果
+[494.目标和](./src/494.target-sum.js) 提示回溯，不需要循环
 
 [42.接雨水](./src/42.trapping-rain-water.js) 提示：双指针，左右取区间最大值，实际计算取最短的计算
 [49.字母异位词分组](./src/49.group-anagrams.js) 提示：编码encode 阿斯克码 +哈希表
