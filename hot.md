@@ -76,6 +76,7 @@ dfs
 
 树
 [226.翻转二叉树](./src/226.invert-binary-tree.js) 提示：赋值情况需要注意，需要暂存节点
+[543.二叉树的直径](./src/543.diameter-of-binary-tree.js) 提示：树深度变种
 
 统计数位
 [400. 第 N 位数字](./src/400.nth-digit.js) 提示：几位共有几个数字 9 _ 位数 _ Math.pow(10 \* len -1)
