@@ -28,6 +28,9 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [300.最长递增子序列](./src/300.longest-increasing-subsequence.js) 提示：动态规划
 [152.乘积最大子数组](./src/152.maximum-product-subarray.js) 提示：注意负数情况 记录当前最大的值
 [139.单词拆分](./src/139.word-break.js) 提示：类似最长递增子序列 双重循环判断子串是否符合要求
+背包问题
+
+[416.分割等和子集](./src/416.partition-equal-subset-sum.js) 提示:0-1背包问题 二维数组i表示nums下标，j表示容量
 
 滑动窗口
 [3.无重复字符的最长子串](./src/3.longest-substring-without-repeating-characters.js) 提示：滑动窗口
