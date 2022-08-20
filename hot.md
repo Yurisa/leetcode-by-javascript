@@ -82,3 +82,6 @@ dfs
 
 
 [347.前 K 个高频元素](./src/347.top-k-frequent-elements.js) 提示：哈希表+排序 或者使用小顶堆
+
+排序
+[406.根据身高重建队列](./src/406.queue-reconstruction-by-height.js) 提示：先按身高从高到低排序，然后按照第二个元素顺序插入
