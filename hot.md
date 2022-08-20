@@ -71,3 +71,6 @@ dfs
 
 位运算
 [416.汉明距离](./src/461.hamming-distance.js) 提示: 同位异或，除二余一法求1位数
+
+区间
+[56.合并区间](./src/56.merge-intervals.js) 提示：区间题先排序，在判断左右边界

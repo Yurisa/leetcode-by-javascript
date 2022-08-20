@@ -29,3 +29,23 @@
 };
 // @lc code=end
 
+
+
+/**
+ * @param {number[][]} intervals
+ * @return {number[][]}
+ */
+ var merge = function(intervals) {
+  intervals.sort((a, b) => a[0] - b[0]);
+  const res = [intervals[0]]
+  for(let i =1; i < intervals.length; i++) {
+      const last = res[res.length - 1]
+      const cur = intervals[i]
+      if(last[1] < cur[0]) {
+          res.push(cur)
+      } else {
+          res[res.length - 1] = [last[0], Math.max(last[1], cur[1])]
+      }
+  }
+  return res
+};
