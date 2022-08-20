@@ -75,3 +75,6 @@ dfs
 
 区间
 [56.合并区间](./src/56.merge-intervals.js) 提示：区间题先排序，在判断左右边界
+
+树
+[226.翻转二叉树](./src/226.invert-binary-tree.js) 提示：赋值情况需要注意，需要暂存节点
