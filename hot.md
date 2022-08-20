@@ -79,3 +79,6 @@ dfs
 
 统计数位
 [400. 第 N 位数字](./src/400.nth-digit.js) 提示：几位共有几个数字 9 _ 位数 _ Math.pow(10 \* len -1)
+
+
+[347.前 K 个高频元素](./src/347.top-k-frequent-elements.js) 提示：哈希表+排序 或者使用小顶堆
