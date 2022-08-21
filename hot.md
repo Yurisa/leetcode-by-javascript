@@ -58,6 +58,7 @@ dfs
 二分查找
 [611.有效三角形](./src/611.valid-triangle-number.js) 提示：排序+双指针 排序 + 二分查找 排序+暴力
 [215]
+[287.寻找重复数](./src/287.find-the-duplicate-number.js) 提示：在[1, n]区间内查找 统计数组中小于等于该数的数字数量如果是大于该数则去左区间区间，小于等于该数的去右区间
 
 [n 皇后]
 
@@ -89,3 +90,6 @@ dfs
 
 排序
 [406.根据身高重建队列](./src/406.queue-reconstruction-by-height.js) 提示：先按身高从高到低排序，然后按照第二个元素顺序插入
+
+杂题
+[448. 找到所有数组中消失的数字](./src/448.find-all-numbers-disappeared-in-an-array.js) 提示：遍历查找
