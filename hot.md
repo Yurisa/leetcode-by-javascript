@@ -27,6 +27,7 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [64.最小路径和](./src/64.minimum-path-sum.js) 提示：动态规划
 [300.最长递增子序列](./src/300.longest-increasing-subsequence.js) 提示：动态规划
 [152.乘积最大子数组](./src/152.maximum-product-subarray.js) 提示：注意负数情况 记录当前最大的值
+[221.最大正方形](./src/221.maximal-square.js) 提示：正方形面积由相邻正方形面积决定dp[i][j] = Math.min(dp[i-1][j-1], dp[i-1][j], dp[i][j-1]) + 1
 [139.单词拆分](./src/139.word-break.js) 提示：类似最长递增子序列 双重循环判断子串是否符合要求
 背包问题
 
@@ -81,7 +82,6 @@ dfs
 
 统计数位
 [400. 第 N 位数字](./src/400.nth-digit.js) 提示：几位共有几个数字 9 _ 位数 _ Math.pow(10 \* len -1)
-
 
 [347.前 K 个高频元素](./src/347.top-k-frequent-elements.js) 提示：哈希表+排序 或者使用小顶堆
 
