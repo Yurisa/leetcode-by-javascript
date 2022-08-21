@@ -50,6 +50,7 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 链表
 [148.排序链表](./src/148.sort-list.js)提示：快慢指针得出中点，然后使用归并排序
 [206.反转链表](./src/206.reverse-linked-list.js) 提示：注意递归写法
+[234. 回文链表](./src/234.palindrome-linked-list.js) 提示：快慢指针找到中点同时构造反向链表
 
 dfs
 [200.岛屿数量](./src/200.number-of-islands.js) 提示：dfs,填海法
