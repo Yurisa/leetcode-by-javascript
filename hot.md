@@ -67,6 +67,7 @@ dfs
 
 双指针
 [647.回文子串](./src/647.palindromic-substrings.js) 提示：遍历出所有的子串，记录子串的顺序和逆序战展示作为判断
+[283. 移动零](./src/283.move-zeroes.js) 提示：快慢指针，快指针遇到0跳过到下一个不为0的数赋值给slow指针
 [快速排序]()
 [归并排序]()
 [冒泡排序]
@@ -84,6 +85,7 @@ dfs
 树
 [226.翻转二叉树](./src/226.invert-binary-tree.js) 提示：赋值情况需要注意，需要暂存节点
 [543.二叉树的直径](./src/543.diameter-of-binary-tree.js) 提示：树深度变种
+[437. 路径总和 III](./src/437.path-sum-iii.js) 提示：前缀和 或者 深度搜索传递差值
 
 统计数位
 [400. 第 N 位数字](./src/400.nth-digit.js) 提示：几位共有几个数字 9 _ 位数 _ Math.pow(10 \* len -1)
