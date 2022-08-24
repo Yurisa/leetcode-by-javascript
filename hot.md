@@ -84,6 +84,7 @@ dfs
 
 树
 [226.翻转二叉树](./src/226.invert-binary-tree.js) 提示：赋值情况需要注意，需要暂存节点
+[236.二叉树的最近公共祖先](./src/236.lowest-common-ancestor-of-a-binary-tree.js) 提示：后序遍历
 [543.二叉树的直径](./src/543.diameter-of-binary-tree.js) 提示：树深度变种
 [437. 路径总和 III](./src/437.path-sum-iii.js) 提示：前缀和 或者 深度搜索传递差值
 
