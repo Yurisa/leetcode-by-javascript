@@ -62,7 +62,6 @@ dfs
 [287.寻找重复数](./src/287.find-the-duplicate-number.js) 提示：在[1, n]区间内查找 统计数组中小于等于该数的数字数量如果是大于该数则去左区间区间，小于等于该数的去右区间
 
 [n 皇后]
-
 [155.最小栈](./src/155.min-stack.js) 提示：辅助栈记录当前栈最小值，保持栈顶为最小值。出栈时判断与辅助栈顶元素是否相等，相等则辅助栈出栈。
 
 双指针
@@ -87,6 +86,7 @@ dfs
 [236.二叉树的最近公共祖先](./src/236.lowest-common-ancestor-of-a-binary-tree.js) 提示：后序遍历
 [543.二叉树的直径](./src/543.diameter-of-binary-tree.js) 提示：树深度变种
 [437. 路径总和 III](./src/437.path-sum-iii.js) 提示：前缀和 或者 深度搜索传递差值
+[662. 二叉树最大宽度](./src/662.maximum-width-of-binary-tree.js) 提示:满二叉树特征，记录每个节点的index然后做差
 
 统计数位
 [400. 第 N 位数字](./src/400.nth-digit.js) 提示：几位共有几个数字 9 _ 位数 _ Math.pow(10 \* len -1)
