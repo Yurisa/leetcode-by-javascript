@@ -32,6 +32,7 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [221.最大正方形](./src/221.maximal-square.js) 提示：正方形面积由相邻正方形面积决定dp[i][j] = Math.min(dp[i-1][j-1], dp[i-1][j], dp[i][j-1]) + 1
 [139.单词拆分](./src/139.word-break.js) 提示：类似最长递增子序列 双重循环判断子串是否符合要求
 [312. 戳气球](./src/312.burst-balloons.js) 提示：区间dp
+[516. 最长回文子序列](./src/516.longest-palindromic-subsequence.js) 提示：区间dp，s[i][j]表示字符串i到j区间
 背包问题
 
 [416.分割等和子集](./src/416.partition-equal-subset-sum.js) 提示:0-1 背包问题 二维数组 i 表示 nums 下标，j 表示容量
@@ -44,7 +45,9 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [303.区域和检索 - 数组不可变](./src/303.range-sum-query-immutable.js) 提示：前缀和，首项为 0
 [304.二维区域和检索 - 矩阵不可变](./src/304.range-sum-query-2-d-immutable.js) 提示：二位的有点难的要清楚 preSum[row][col]代表的是定点左上的区域，而实际矩形 martix[row][col]下标都要-1
 
+dfs
 [79.单词搜索](./src/79.word-search.js) 提示：dfs direactions 数组 + 回溯的时候 visited 记录访问过的节点
+[329. 矩阵中的最长递增路径](./src/329.longest-increasing-path-in-a-matrix.js) 提示：dfs+记忆化搜索
 [105.从前序与中序遍历序列构造二叉树](./src/105.construct-binary-tree-from-preorder-and-inorder-traversal.js)
 [128.最长连续序列](./src/128.longest-consecutive-sequence.js) 提示：排序+遍历即可
 [146.LRU 缓存机制](./src/146.lru-cache.js) 提示使用 jsmap 并使用 keys().next.value
