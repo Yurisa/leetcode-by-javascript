@@ -3,7 +3,9 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 
 [232.双栈实现队列](./src/232.implement-queue-using-stacks.js) 提示：in2out 需要实现
 
+[20.有效括号] TODO
 [22.括号生成](./src/22.generate-parentheses.js) 提示：回溯、条件判断需要注意
+[301.删除无效括号](./src/301.remove-invalid-parentheses.js) 提示：回溯+剪枝
 
 [31.下一个排列](./src/31.next-permutation.js) 提示：有点难从右遍历找小数和大数，最后反转右侧数据
 
@@ -106,3 +108,4 @@ dfs
 杂题
 [448. 找到所有数组中消失的数字](./src/448.find-all-numbers-disappeared-in-an-array.js) 提示：遍历查找
 [48.旋转图像] 提示：先对角线交换再每行交换
+[4. 寻找两个正序数组的中位数](./src/4.median-of-two-sorted-arrays.js) 提示：寻找数组第k大元素
