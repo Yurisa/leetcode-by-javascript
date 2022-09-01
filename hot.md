@@ -41,6 +41,7 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 
 滑动窗口
 [3.无重复字符的最长子串](./src/3.longest-substring-without-repeating-characters.js) 提示：滑动窗口
+[78.最小覆盖子串](./src/76.minimum-window-substring.js) 提示：map记录字符次数 用window表示当前窗口内字符的出现次数
 
 前缀和
 [560.和为 k 的子数组](./src/560.subarray-sum-equals-k.js) 提示：前缀和，时间复杂度关系可以找差在前缀和中出现的次数
