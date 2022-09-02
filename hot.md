@@ -94,6 +94,7 @@ dfs
 [543.二叉树的直径](./src/543.diameter-of-binary-tree.js) 提示：树深度变种
 [437. 路径总和 III](./src/437.path-sum-iii.js) 提示：前缀和 或者 深度搜索传递差值
 [662. 二叉树最大宽度](./src/662.maximum-width-of-binary-tree.js) 提示:满二叉树特征，记录每个节点的index然后做差
+[102. 二叉树的层序遍历](./src/102.binary-tree-level-order-traversal.js)
 
 统计数位
 [400. 第 N 位数字](./src/400.nth-digit.js) 提示：几位共有几个数字 9 _ 位数 _ Math.pow(10 \* len -1)
@@ -110,3 +111,4 @@ dfs
 [448. 找到所有数组中消失的数字](./src/448.find-all-numbers-disappeared-in-an-array.js) 提示：遍历查找
 [48.旋转图像] 提示：先对角线交换再每行交换
 [4. 寻找两个正序数组的中位数](./src/4.median-of-two-sorted-arrays.js) 提示：寻找数组第k大元素
+[165. 比较版本号](./src/165.compare-version-numbers.js)
