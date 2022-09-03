@@ -3,7 +3,7 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 
 [232.双栈实现队列](./src/232.implement-queue-using-stacks.js) 提示：in2out 需要实现
 
-[20.有效括号] TODO
+[20.有效括号](./src/20.valid-parentheses.js) 提示：栈
 [22.括号生成](./src/22.generate-parentheses.js) 提示：回溯、条件判断需要注意
 [301.删除无效括号](./src/301.remove-invalid-parentheses.js) 提示：回溯+剪枝
 
@@ -54,6 +54,7 @@ dfs
 [105.从前序与中序遍历序列构造二叉树](./src/105.construct-binary-tree-from-preorder-and-inorder-traversal.js)
 [128.最长连续序列](./src/128.longest-consecutive-sequence.js) 提示：排序+遍历即可
 [146.LRU 缓存机制](./src/146.lru-cache.js) 提示使用 jsmap 并使用 keys().next.value
+[695. 岛屿的最大面积](./src/695.max-area-of-island.js) 提示：填海法
 
 链表
 [148.排序链表](./src/148.sort-list.js)提示：快慢指针得出中点，然后使用归并排序
@@ -74,6 +75,7 @@ dfs
 双指针
 [647.回文子串](./src/647.palindromic-substrings.js) 提示：遍历出所有的子串，记录子串的顺序和逆序战展示作为判断
 [283. 移动零](./src/283.move-zeroes.js) 提示：快慢指针，快指针遇到0跳过到下一个不为0的数赋值给slow指针
+[16.最接近的三数之和](./src/16.3-sum-closest.js) 提示：固定首位，双指针
 [快速排序]()
 [归并排序]()
 [冒泡排序]
