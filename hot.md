@@ -97,6 +97,7 @@ dfs
 [437. 路径总和 III](./src/437.path-sum-iii.js) 提示：前缀和 或者 深度搜索传递差值
 [662. 二叉树最大宽度](./src/662.maximum-width-of-binary-tree.js) 提示:满二叉树特征，记录每个节点的index然后做差
 [102. 二叉树的层序遍历](./src/102.binary-tree-level-order-traversal.js)
+[112. 路径总和](./src/112.path-sum.js) 提示： 传入剩余数
 
 统计数位
 [400. 第 N 位数字](./src/400.nth-digit.js) 提示：几位共有几个数字 9 _ 位数 _ Math.pow(10 \* len -1)
