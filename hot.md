@@ -117,3 +117,7 @@ dfs
 [48.旋转图像] 提示：先对角线交换再每行交换
 [4. 寻找两个正序数组的中位数](./src/4.median-of-two-sorted-arrays.js) 提示：寻找数组第k大元素
 [165. 比较版本号](./src/165.compare-version-numbers.js)
+
+
+栈
+[71. 简化路径](./src/71.simplify-path.js) 提示： 栈
