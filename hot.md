@@ -18,6 +18,7 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [77.组合](./src/77.combinations.js) 提示：回溯比 78 简单一点，数组长度为 k 时收集
 [78.子集](./src/78.subsets.js) 提示：回溯，需要根据子集长度收集结果
 [494.目标和](./src/494.target-sum.js) 提示回溯，不需要循环
+[93. 复原 IP 地址](./src/93.restore-ip-addresses.js) 提示：回溯+剪枝，两个数和三个数时第一个数不能为0， 三个数时的情况需要小于255
 
 [42.接雨水](./src/42.trapping-rain-water.js) 提示：双指针，左右取区间最大值，实际计算取最短的计算
 [49.字母异位词分组](./src/49.group-anagrams.js) 提示：编码 encode 阿斯克码 +哈希表
