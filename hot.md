@@ -37,8 +37,11 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [312. 戳气球](./src/312.burst-balloons.js) 提示：区间dp
 [516. 最长回文子序列](./src/516.longest-palindromic-subsequence.js) 提示：区间dp，s[i][j]表示字符串i到j区间
 背包问题
-
 [416.分割等和子集](./src/416.partition-equal-subset-sum.js) 提示:0-1 背包问题 二维数组 i 表示 nums 下标，j 表示容量
+打家劫舍
+[198. 打家劫舍](./src/198.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.js) 提示：选择打劫或者不打劫当前
+[213. 打家劫舍II](./src/213.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D-ii.js) 提示：选择打劫首或者选择打劫尾判断大小
+[337. 打家劫舍 III](./src/337.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D-iii.js) 提示：树形dp或者树解法+记忆化搜索，选择根节点+孙子节点或者两个儿子节点
 
 滑动窗口
 [3.无重复字符的最长子串](./src/3.longest-substring-without-repeating-characters.js) 提示：滑动窗口
