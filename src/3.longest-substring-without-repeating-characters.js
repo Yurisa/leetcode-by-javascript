@@ -53,7 +53,7 @@ var lengthOfLongestSubstring = function (s) {
  * @param {string} s
  * @return {number}
  */
- var lengthOfLongestSubstring = function (s) {
+var lengthOfLongestSubstring = function (s) {
   let j = 0;
   const str = [];
   let res = 0;
@@ -89,3 +89,32 @@ var lengthOfLongestSubstring = function (s) {
 // @lc code=end
 
 // @lc code=end
+
+/**
+ * @param {string} s
+ * @return {number}
+ */
+var lengthOfLongestSubstring = function (s) {
+  const set = new Set();
+  const n = s.length;
+  let l = 0;
+  let r = 0;
+  let ans = 0;
+  let cur = 0;
+
+  while (r < n) {
+    const c = s[r];
+    cur++;
+
+    while (set.has(c)) {
+      set.delete(s[l]);
+      l++;
+      cur--;
+    }
+
+    ans = Math.max(ans, cur);
+    set.add(c);
+    r++;
+  }
+  return ans;
+};

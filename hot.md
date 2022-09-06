@@ -43,6 +43,10 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [213. 打家劫舍II](./src/213.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D-ii.js) 提示：选择打劫首或者选择打劫尾判断大小
 [337. 打家劫舍 III](./src/337.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D-iii.js) 提示：树形dp或者树解法+记忆化搜索，选择根节点+孙子节点或者两个儿子节点
 
+买卖股票
+[121. 买卖股票的最佳时机](./src/121.best-time-to-buy-and-sell-stock.js) 提示：贪心
+[122. 买卖股票的最佳时机 II](./src/122.best-time-to-buy-and-sell-stock-ii.js) 提示：贪心
+
 滑动窗口
 [3.无重复字符的最长子串](./src/3.longest-substring-without-repeating-characters.js) 提示：滑动窗口
 [50.滑动窗口最大值](./src/239.sliding-window-maximum.js) 提示：滑动窗口+单调队列
