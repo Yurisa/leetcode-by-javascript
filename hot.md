@@ -12,13 +12,16 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [33.搜索旋转排序数组](./src/33.search-in-rotated-sorted-array.js) 提示：mid 与边界相比然后在连续区间进行查找
 [34.在排序数组中查找元素的第一个和最后一个位置](./src/34.find-first-and-last-position-of-element-in-sorted-array.js)
 
-排列组合
+排列组合（回溯）
 [39.组合总和](./src/39.combination-sum.js) 提示回溯
 [46.全排列](./src/46.permutations.js) 提示：回溯
 [77.组合](./src/77.combinations.js) 提示：回溯比 78 简单一点，数组长度为 k 时收集
 [78.子集](./src/78.subsets.js) 提示：回溯，需要根据子集长度收集结果
 [494.目标和](./src/494.target-sum.js) 提示回溯，不需要循环
 [93. 复原 IP 地址](./src/93.restore-ip-addresses.js) 提示：回溯+剪枝，两个数和三个数时第一个数不能为0， 三个数时的情况需要小于255
+[22.括号生成](./src/22.generate-parentheses.js) 提示：回溯、条件判断需要注意
+[301.删除无效括号](./src/301.remove-invalid-parentheses.js) 提示：回溯+剪枝
+[698. 划分为k个相等的子](./src/698.%E5%88%92%E5%88%86%E4%B8%BAk%E4%B8%AA%E7%9B%B8%E7%AD%89%E7%9A%84%E5%AD%90%E9%9B%86.js) 提示：回溯+剪枝 分K个桶装满为止
 
 [42.接雨水](./src/42.trapping-rain-water.js) 提示：双指针，左右取区间最大值，实际计算取最短的计算
 [49.字母异位词分组](./src/49.group-anagrams.js) 提示：编码 encode 阿斯克码 +哈希表
