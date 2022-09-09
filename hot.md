@@ -131,3 +131,4 @@ dfs
 
 栈
 [71. 简化路径](./src/71.simplify-path.js) 提示： 栈
+[84. 柱状图中最大的矩形](./src/84.largest-rectangle-in-histogram.js) 提示：单调栈
