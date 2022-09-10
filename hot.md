@@ -71,6 +71,7 @@ dfs
 链表
 [148.排序链表](./src/148.sort-list.js)提示：快慢指针得出中点，然后使用归并排序
 [206.反转链表](./src/206.reverse-linked-list.js) 提示：注意递归写法
+[25. K 个一组翻转链表](./src/25.k-%E4%B8%AA%E4%B8%80%E7%BB%84%E7%BF%BB%E8%BD%AC%E9%93%BE%E8%A1%A8.js) 提示：栈或者递归，注意连接处以及不满足k个一组的场景
 [234. 回文链表](./src/234.palindrome-linked-list.js) 提示：快慢指针找到中点同时构造反向链表
 
 dfs
