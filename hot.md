@@ -135,3 +135,4 @@ dfs
 栈
 [71. 简化路径](./src/71.simplify-path.js) 提示： 栈
 [84. 柱状图中最大的矩形](./src/84.largest-rectangle-in-histogram.js) 提示：单调栈
+[85. 最大矩形](./src/85.%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2.js) 提示：单调栈，84题的变种
