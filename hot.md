@@ -54,6 +54,7 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [3.无重复字符的最长子串](./src/3.longest-substring-without-repeating-characters.js) 提示：滑动窗口
 [50.滑动窗口最大值](./src/239.sliding-window-maximum.js) 提示：滑动窗口+单调队列
 [78.最小覆盖子串](./src/76.minimum-window-substring.js) 提示：map记录字符次数 用window表示当前窗口内字符的出现次数
+[438. 找到字符串中所有字母异位词](./src/438.%E6%89%BE%E5%88%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E6%89%80%E6%9C%89%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.js) 提示：78最小覆盖子串变种，只需转换减小窗口条件
 
 前缀和
 [560.和为 k 的子数组](./src/560.subarray-sum-equals-k.js) 提示：前缀和，时间复杂度关系可以找差在前缀和中出现的次数
@@ -110,6 +111,7 @@ dfs
 [236.二叉树的最近公共祖先](./src/236.lowest-common-ancestor-of-a-binary-tree.js) 提示：后序遍历
 [543.二叉树的直径](./src/543.diameter-of-binary-tree.js) 提示：树深度变种
 [437. 路径总和 III](./src/437.path-sum-iii.js) 提示：前缀和 或者 深度搜索传递差值
+[617. 合并二叉树](./src/617.%E5%90%88%E5%B9%B6%E4%BA%8C%E5%8F%89%E6%A0%91.js) 提示：遍历即可
 [662. 二叉树最大宽度](./src/662.maximum-width-of-binary-tree.js) 提示:满二叉树特征，记录每个节点的index然后做差
 [102. 二叉树的层序遍历](./src/102.binary-tree-level-order-traversal.js)
 [112. 路径总和](./src/112.path-sum.js) 提示： 传入剩余数
@@ -136,5 +138,6 @@ dfs
 
 栈
 [71. 简化路径](./src/71.simplify-path.js) 提示： 栈
-[84. 柱状图中最大的矩形](./src/84.largest-rectangle-in-histogram.js) 提示：单调栈
+[84. 柱状图中最大的矩形](./src/84.largest-rectangle-in-histogram.js) 提示：单调栈 + 哨兵
 [85. 最大矩形](./src/85.%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2.js) 提示：单调栈，84题的变种
+[739. 每日温度](./src/739.%E6%AF%8F%E6%97%A5%E6%B8%A9%E5%BA%A6.js) 提示：单调栈
