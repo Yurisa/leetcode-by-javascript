@@ -32,6 +32,7 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [53.最大子数组和](./src/53.maximum-subarray.js) 提示：动态规划
 [62.不同路径](./src/62.unique-paths.js) 提示：动态规划
 [64.最小路径和](./src/64.minimum-path-sum.js) 提示：动态规划
+[96. 不同的二叉搜索树](./src/96.%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.js) 提示：注意base case以及二叉搜索树的条件
 [300.最长递增子序列](./src/300.longest-increasing-subsequence.js) 提示：动态规划
 [152.乘积最大子数组](./src/152.maximum-product-subarray.js) 提示：注意负数情况 记录当前最大的值
 [279.完全平方数](./src/279.perfect-squares.js) 提示: 数量次数需要联想到dp
