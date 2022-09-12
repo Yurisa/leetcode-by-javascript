@@ -4,7 +4,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 
 **ATTENTION**: If you also use JavaScript as your coding language, you should pay attention to some JavaScript INTERNAL issues, such as bitwise operators, so as to let you not drop into some trouble which may be caused by JavaScript itself.
 
-**Progress: 274 Solutions**:
+**Progress: 275 Solutions**:
 
 | ID | Title | Solution | Difficulty | category| Chinese|
 |---| ----- | -------- | ---------- |  ------- | ------- |
@@ -178,6 +178,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |662|[Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/submissions/) | [JavaScript](./src/maximum-width-of-binary-tree/res.js)| Medium| binary tree |
 |668|[Kth Smallest Number in Multiplication Table](https://leetcode.com/problems/kth-smallest-number-in-multiplication-table/submissions/) | [JavaScript](./src/668.kth-smallest-number-in-multiplication-table.js)| Hard | binary search |
 |669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/submissions/) | [JavaScript](./src/trim-a-binary-search-tree/res.js)| Medium| binary tree |
+|670|[Maximum Swap](https://leetcode.cn/problems/maximum-swap/submissions/)| [JavaScript](./src/670.%E6%9C%80%E5%A4%A7%E4%BA%A4%E6%8D%A2.js/res.js)| Medium| selection sort |
 |671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/submissions/) | [JavaScript](./src/second-minimum-node-in-a-binary-tree/res.js)| Easy| binary tree |
 |675|[Cut Off Trees for Golf Event](https://leetcode.com/problems/cut-off-trees-for-golf-event/submissions/) | [JavaScript](./src/675.cut-off-trees-for-golf-event.js)| Hard | bfs graph |
 |699|[Falling Squares](https://leetcode.com/problems/falling-squares/submissions/) | [JavaScript](./src/699.falling-squares.js)| Hard |  range、segmenttree | [掉落的方块](https://leetcode.cn/problems/falling-squares/submissions/) |
