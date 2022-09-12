@@ -116,6 +116,7 @@ dfs
 [662. 二叉树最大宽度](./src/662.maximum-width-of-binary-tree.js) 提示:满二叉树特征，记录每个节点的index然后做差
 [102. 二叉树的层序遍历](./src/102.binary-tree-level-order-traversal.js)
 [112. 路径总和](./src/112.path-sum.js) 提示： 传入剩余数
+[538. 把二叉搜索树转换为累加树](./src/538.%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%BD%AC%E6%8D%A2%E4%B8%BA%E7%B4%AF%E5%8A%A0%E6%A0%91.js) 提示：中序遍历即可
 
 统计数位
 [400. 第 N 位数字](./src/400.nth-digit.js) 提示：几位共有几个数字 9 _ 位数 _ Math.pow(10 \* len -1)
