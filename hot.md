@@ -16,6 +16,7 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [39.组合总和](./src/39.combination-sum.js) 提示回溯
 [40. 组合总和 II](./src/40.combination-sum-ii.js) 提示： 回溯+剪枝
 [46.全排列](./src/46.permutations.js) 提示：回溯
+[47. 全排列 II](./src/47.permutations-ii.js) 提示：回溯+剪枝 固定重复元素相对位置，只有在前面相同元素使用的情况下才会选择相同元素否则跳过选择
 [77.组合](./src/77.combinations.js) 提示：回溯比 78 简单一点，数组长度为 k 时收集
 [78.子集](./src/78.subsets.js) 提示：回溯，需要根据子集长度收集结果
 [90. 子集 II](./src/90.subsets-ii.js) 提示： 回溯 + 剪枝，碰到相等的如果不是以相等的为起点的需要剪枝
