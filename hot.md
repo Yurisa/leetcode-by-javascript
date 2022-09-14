@@ -17,6 +17,7 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [46.全排列](./src/46.permutations.js) 提示：回溯
 [77.组合](./src/77.combinations.js) 提示：回溯比 78 简单一点，数组长度为 k 时收集
 [78.子集](./src/78.subsets.js) 提示：回溯，需要根据子集长度收集结果
+[90. 子集 II](./src/90.subsets-ii.js) 提示： 回溯 + 剪枝，碰到相等的如果不是以相等的为起点的需要剪枝
 [494.目标和](./src/494.target-sum.js) 提示回溯，不需要循环
 [93. 复原 IP 地址](./src/93.restore-ip-addresses.js) 提示：回溯+剪枝，两个数和三个数时第一个数不能为0， 三个数时的情况需要小于255
 [22.括号生成](./src/22.generate-parentheses.js) 提示：回溯、条件判断需要注意
