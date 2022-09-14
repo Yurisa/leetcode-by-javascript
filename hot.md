@@ -14,6 +14,7 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 
 排列组合（回溯）
 [39.组合总和](./src/39.combination-sum.js) 提示回溯
+[40. 组合总和 II](./src/40.combination-sum-ii.js) 提示： 回溯+剪枝
 [46.全排列](./src/46.permutations.js) 提示：回溯
 [77.组合](./src/77.combinations.js) 提示：回溯比 78 简单一点，数组长度为 k 时收集
 [78.子集](./src/78.subsets.js) 提示：回溯，需要根据子集长度收集结果
@@ -48,9 +49,16 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [213. 打家劫舍II](./src/213.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D-ii.js) 提示：选择打劫首或者选择打劫尾判断大小
 [337. 打家劫舍 III](./src/337.%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D-iii.js) 提示：树形dp或者树解法+记忆化搜索，选择根节点+孙子节点或者两个儿子节点
 
+背包问题
+[377. 组合总和 Ⅳ](./src/377.combination-sum-iv.js) 提示：回溯超时，只能动态规划，完全背包问题。其实是排列数
+零钱换整
+[322. 零钱兑换](./src/322.coin-change.js) 提示：动态规划，类似于爬台阶
+[518. 零钱兑换II](./src/518.coin-change-2.js) 提示：动态规划，循环条件得换一下，区分是组合数还是排列数，本题为组合即顺序不同表示一组。完全背包问题
+
 买卖股票
 [121. 买卖股票的最佳时机](./src/121.best-time-to-buy-and-sell-stock.js) 提示：贪心
 [122. 买卖股票的最佳时机 II](./src/122.best-time-to-buy-and-sell-stock-ii.js) 提示：贪心
+
 
 滑动窗口
 [3.无重复字符的最长子串](./src/3.longest-substring-without-repeating-characters.js) 提示：滑动窗口
