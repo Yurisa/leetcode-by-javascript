@@ -149,6 +149,7 @@ dfs
 [165. 比较版本号](./src/165.compare-version-numbers.js)
 [14.最长公共前缀](./src/14.longest-common-prefix.js)
 [443. 压缩字符串](./src/443.string-compression.js) 提示：双指针
+[238. 除自身以外数组的乘积](./src/238.product-of-array-except-self.js) 提示：两次遍历，第一次记录除该数外左边的乘积，第二次记录除该数外右边的乘积
 
 
 栈
