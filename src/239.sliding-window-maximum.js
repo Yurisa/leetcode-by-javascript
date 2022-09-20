@@ -23,6 +23,7 @@ var maxSlidingWindow = function (nums, k) {
       queue.pop();
     }
     queue.push(num);
+    // 队首永远是滑动窗口中的最大值
     while (cur > k) {
       if (queue[0] === nums[left]) {
         queue.shift();

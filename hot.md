@@ -3,7 +3,7 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 
 [232.双栈实现队列](./src/232.implement-queue-using-stacks.js) 提示：in2out 需要实现
 
-[20.有效括号](./src/20.valid-parentheses.js) 提示：栈
+[20.有效括号](./src/20.valid-parentheses.js) [地址]() 提示：栈
 [22.括号生成](./src/22.generate-parentheses.js) 提示：回溯、条件判断需要注意
 [301.删除无效括号](./src/301.remove-invalid-parentheses.js) 提示：回溯+剪枝
 
@@ -31,8 +31,8 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 
 贪心| 动态 只要是求和求次数不求具体的路径的都可以考虑动态规划
 [10. 正则表达式匹配](./src/10.regular-expression-matching.js) 提示：dp中表示长度与实际子串下标相差1，分析末尾为*的情况
-[55.跳跃游戏](./src/55.jump-game.js) 提示：贪心，记录能跳到最远的下标
-[53.最大子数组和](./src/53.maximum-subarray.js) 提示：动态规划
+[55. 跳跃游戏](./src/55.jump-game.js) 提示：贪心，记录能跳到最远的下标
+[53. 最大子数组和](./src/53.maximum-subarray.js) 提示：动态规划
 [62.不同路径](./src/62.unique-paths.js) 提示：动态规划
 [64.最小路径和](./src/64.minimum-path-sum.js) 提示：动态规划
 [96. 不同的二叉搜索树](./src/96.%E4%B8%8D%E5%90%8C%E7%9A%84%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.js) 提示：注意base case以及二叉搜索树的条件
@@ -40,7 +40,7 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [152.乘积最大子数组](./src/152.maximum-product-subarray.js) 提示：注意负数情况 记录当前最大的值
 [279.完全平方数](./src/279.perfect-squares.js) 提示: 数量次数需要联想到dp
 [221.最大正方形](./src/221.maximal-square.js) 提示：正方形面积由相邻正方形面积决定dp[i][j] = Math.min(dp[i-1][j-1], dp[i-1][j], dp[i][j-1]) + 1
-[139.单词拆分](./src/139.word-break.js) 提示：类似最长递增子序列 双重循环判断子串是否符合要求
+[139. 单词拆分](./src/139.word-break.js) 提示：类似最长递增子序列 双重循环判断子串是否符合要求
 [312. 戳气球](./src/312.burst-balloons.js) 提示：区间dp
 [516. 最长回文子序列](./src/516.longest-palindromic-subsequence.js) 提示：区间dp，s[i][j]表示字符串i到j区间
 背包问题
@@ -61,11 +61,11 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [122. 买卖股票的最佳时机 II](./src/122.best-time-to-buy-and-sell-stock-ii.js) 提示：贪心
 
 
-滑动窗口
+滑动窗口 [学习参考地址](https://leetcode.cn/problems/minimum-window-substring/solution/by-flix-1kac/)
 [3.无重复字符的最长子串](./src/3.longest-substring-without-repeating-characters.js) 提示：滑动窗口
-[50.滑动窗口最大值](./src/239.sliding-window-maximum.js) 提示：滑动窗口+单调队列
-[78.最小覆盖子串](./src/76.minimum-window-substring.js) 提示：map记录字符次数 用window表示当前窗口内字符的出现次数
-[438. 找到字符串中所有字母异位词](./src/438.%E6%89%BE%E5%88%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E6%89%80%E6%9C%89%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.js) 提示：78最小覆盖子串变种，只需转换减小窗口条件
+[239.滑动窗口最大值](./src/239.sliding-window-maximum.js) [地址](https://leetcode.cn/problems/sliding-window-maximum/submissions/) 提示：滑动窗口+单调队列
+[78.最小覆盖子串](./src/76.minimum-window-substring.js) [地址]() 提示：map记录字符次数 用window表示当前窗口内字符的出现次数
+[438. 找到字符串中所有字母异位词](./src/438.%E6%89%BE%E5%88%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E6%89%80%E6%9C%89%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.js) [地址](https://leetcode.cn/problems/find-all-anagrams-in-a-string/submissions/) 提示：78最小覆盖子串变种，只需转换减小窗口条件
 
 前缀和
 [560.和为 k 的子数组](./src/560.subarray-sum-equals-k.js) 提示：前缀和，时间复杂度关系可以找差在前缀和中出现的次数

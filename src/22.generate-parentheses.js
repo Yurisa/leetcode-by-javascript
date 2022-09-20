@@ -25,3 +25,31 @@ function backtrack(left, right, track, res) {
   backtrack(left, right - 1, track, res)
   track.pop()
 }
+
+
+/**
+ * @param {number} n
+ * @return {string[]}
+ */
+ var generateParenthesis = function(n) {
+  const stack = []
+  const ans = []
+
+  function backtrack(left, right) {
+      if(left > right) return 
+      if(left < 0 || right < 0) return 
+      if( left === 0 && right === 0) {
+          ans.push(stack.join(''))
+          return 
+      }
+      stack.push('(')
+      backtrack(left - 1, right)
+      stack.pop()
+
+      stack.push(')')
+      backtrack(left, right - 1)
+      stack.pop()
+  }
+  backtrack(n, n)
+  return ans
+};
