@@ -80,6 +80,7 @@ dfs
 [128.最长连续序列](./src/128.longest-consecutive-sequence.js) 提示：排序+遍历即可
 [146.LRU 缓存机制](./src/146.lru-cache.js) 提示使用 jsmap 并使用 keys().next.value
 [695. 岛屿的最大面积](./src/695.max-area-of-island.js) 提示：填海法
+[1240. 铺瓷砖](./src/1240.tiling-a-rectangle-with-the-fewest-squares.js) 提示：dfs+ 剪枝 从大到小铺瓷砖，检验是否放得下。
 
 链表
 [148.排序链表](./src/148.sort-list.js)提示：快慢指针得出中点，然后使用归并排序
