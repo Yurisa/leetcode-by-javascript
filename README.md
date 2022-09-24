@@ -13,6 +13,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/) | [JavaScript](./src/longest-substring-without-repeating-characters/res.js)|Medium|  sliding window |
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/submissions/)| [JavaScript](./src/longest-palindromic-substring/res.js)| Medium| dp |[最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring/submissions/)|
 |6|[Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/submissions/)| [JavaScript](./src/zigzag-conversion/res.js)| Medium|
+|7|[Reverse Integer](https://leetcode.cn/problems/reverse-integer/submissions/)| [JavaScript](./src/7.reverse-integer.js)| Medium|
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/submissions/) | [JavaScript](./src/roman-to-integer/res.js)|Easy|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/submissions/) | [JavaScript](./src/longest-common-prefix/res.js)|Easy|
 |15|[3Sum](https://leetcode.com/problems/3sum/submissions/) | [JavaScript](./src/3sum/res.js)|Medium|

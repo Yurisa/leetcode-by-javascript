@@ -63,6 +63,7 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 
 滑动窗口 [学习参考地址](https://leetcode.cn/problems/minimum-window-substring/solution/by-flix-1kac/)
 [3.无重复字符的最长子串](./src/3.longest-substring-without-repeating-characters.js) 提示：滑动窗口
+[187. 重复的DNA序列](./src/187.repeated-dna-sequences.js) [地址](https://leetcode.cn/problems/repeated-dna-sequences/submissions/) 提示：滑动窗口 + hash表
 [239.滑动窗口最大值](./src/239.sliding-window-maximum.js) [地址](https://leetcode.cn/problems/sliding-window-maximum/submissions/) 提示：滑动窗口+单调队列
 [78.最小覆盖子串](./src/76.minimum-window-substring.js) [地址]() 提示：map记录字符次数 用window表示当前窗口内字符的出现次数
 [438. 找到字符串中所有字母异位词](./src/438.%E6%89%BE%E5%88%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E6%89%80%E6%9C%89%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.js) [地址](https://leetcode.cn/problems/find-all-anagrams-in-a-string/submissions/) 提示：78最小覆盖子串变种，只需转换减小窗口条件
@@ -150,7 +151,7 @@ dfs
 [14.最长公共前缀](./src/14.longest-common-prefix.js)
 [443. 压缩字符串](./src/443.string-compression.js) 提示：双指针
 [238. 除自身以外数组的乘积](./src/238.product-of-array-except-self.js) 提示：两次遍历，第一次记录除该数外左边的乘积，第二次记录除该数外右边的乘积
-
+[169. 多数元素](./src/169.majority-element.js) 提示：排序+一次遍历记录出现次数即可
 
 栈
 [71. 简化路径](./src/71.simplify-path.js) 提示： 栈
@@ -160,3 +161,6 @@ dfs
 
 图
 [207. 课程表](./src/207.course-schedule.js) 提示：图
+
+数学题
+[7. 整数反转](./src/7.reverse-integer.js) 提示：每次除以10
