@@ -30,6 +30,7 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [49.字母异位词分组](./src/49.group-anagrams.js) 提示：编码 encode 阿斯克码 +哈希表
 
 贪心| 动态 只要是求和求次数不求具体的路径的都可以考虑动态规划
+[5. 最长回文子串](./src/5.longest-palindromic-substring.js) 提示：i,j表示字符下标
 [10. 正则表达式匹配](./src/10.regular-expression-matching.js) 提示：dp中表示长度与实际子串下标相差1，分析末尾为*的情况
 [55. 跳跃游戏](./src/55.jump-game.js) 提示：贪心，记录能跳到最远的下标
 [53. 最大子数组和](./src/53.maximum-subarray.js) 提示：动态规划
