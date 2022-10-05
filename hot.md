@@ -154,6 +154,7 @@ dfs
 [443. 压缩字符串](./src/443.string-compression.js) 提示：双指针
 [238. 除自身以外数组的乘积](./src/238.product-of-array-except-self.js) 提示：两次遍历，第一次记录除该数外左边的乘积，第二次记录除该数外右边的乘积
 [169. 多数元素](./src/169.majority-element.js) 提示：排序+一次遍历记录出现次数即可
+[168. Excel表列名称](./src/168.excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0.js) 提示：整除26
 
 栈
 [71. 简化路径](./src/71.simplify-path.js) 提示： 栈
