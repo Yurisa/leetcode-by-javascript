@@ -133,7 +133,7 @@ dfs
 [102. 二叉树的层序遍历](./src/102.binary-tree-level-order-traversal.js)
 [112. 路径总和](./src/112.path-sum.js) 提示： 传入剩余数
 [538. 把二叉搜索树转换为累加树](./src/538.%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%BD%AC%E6%8D%A2%E4%B8%BA%E7%B4%AF%E5%8A%A0%E6%A0%91.js) 提示：中序遍历即可
-
+[501. 二叉搜索树中的众数](./src/501.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E4%BC%97%E6%95%B0.js) 提示：hash表+遍历
 统计数位
 [400. 第 N 位数字](./src/400.nth-digit.js) 提示：几位共有几个数字 9 _ 位数 _ Math.pow(10 \* len -1)
 
