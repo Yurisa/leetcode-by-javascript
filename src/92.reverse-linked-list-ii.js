@@ -22,13 +22,14 @@ var reverseBetween = function (head, left, right) {
   if (left === 1) {
     return reverseN(head, right);
   }
-  head.next = reverseBetween(head.next, left - 1);
+  head.next = reverseBetween(head.next, left - 1, right - 1);
   return head;
 };
 
 let s = null;
 function reverseN(head, N) {
   if (N === 1) {
+    s = head.next;
     return head;
   }
   let last = reverseN(head.next, N - 1);

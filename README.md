@@ -46,6 +46,7 @@ This is the solutions collection of my LeetCode submissions, most of them are pr
 |63|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/submissions/) | [JavaScript](./src/unique-paths-ii/res.js) | Medium | dp |
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/submissions/) | [JavaScript](./src//minimum-path-sum/res.js) | Medium | dp |
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/submissions/) | [JavaScript](./src/sqrtx/res.js)|Easy|
+|71|[Simplify Path](https://leetcode.com/problems/simplify-path/submissions/) | [JavaScript](./src/71.simplify-path.js)|Medium|stack|
 |72|[Edit Distance](https://leetcode.com/problems/edit-distance/submissions/) | [JavaScript](./src/edit-distance/res.js) | Hard | dp |
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/submissions/) | [JavaScript](./src/74.search-a-2-d-matrix.js) | Medium | binary search |
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors/submissions/) | [JavaScript](./src/sort-colors/res.js) | Medium | sort |

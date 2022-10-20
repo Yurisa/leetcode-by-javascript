@@ -134,7 +134,7 @@ dfs
 [102. 二叉树的层序遍历](./src/102.binary-tree-level-order-traversal.js)
 [112. 路径总和](./src/112.path-sum.js) 提示： 传入剩余数
 [538. 把二叉搜索树转换为累加树](./src/538.%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%BD%AC%E6%8D%A2%E4%B8%BA%E7%B4%AF%E5%8A%A0%E6%A0%91.js) 提示：中序遍历即可
-
+[501. 二叉搜索树中的众数](./src/501.%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E4%BC%97%E6%95%B0.js) 提示：hash表+遍历
 统计数位
 [400. 第 N 位数字](./src/400.nth-digit.js) 提示：几位共有几个数字 9 _ 位数 _ Math.pow(10 \* len -1)
 
@@ -155,6 +155,7 @@ dfs
 [443. 压缩字符串](./src/443.string-compression.js) 提示：双指针
 [238. 除自身以外数组的乘积](./src/238.product-of-array-except-self.js) 提示：两次遍历，第一次记录除该数外左边的乘积，第二次记录除该数外右边的乘积
 [169. 多数元素](./src/169.majority-element.js) 提示：排序+一次遍历记录出现次数即可
+[168. Excel表列名称](./src/168.excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0.js) 提示：整除26，注意余数为0的情况
 
 栈
 [71. 简化路径](./src/71.simplify-path.js) 提示： 栈
@@ -169,3 +170,6 @@ dfs
 数学题
 [7. 整数反转](./src/7.reverse-integer.js) 提示：每次除以10
 [415. 字符串相加](./src/415.add-strings.js) 提示：carry不为0的时候再次进入循环
+[343. 整数拆分](./src/343.%E6%95%B4%E6%95%B0%E6%8B%86%E5%88%86.js) 提示：判断余数分别为1，2，0的情况
+[470. 用 Rand7() 实现 Rand10()](./src/470.%E7%94%A8-rand-7-%E5%AE%9E%E7%8E%B0-rand-10.js) 提示：大范围的不断调用即可
+[860. 柠檬水找零](./src/860.%E6%9F%A0%E6%AA%AC%E6%B0%B4%E6%89%BE%E9%9B%B6.js) 提示：记录零钱5和10的数目
