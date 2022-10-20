@@ -82,7 +82,7 @@ function sort(nums) {
 const temp = [];
 var sortArray = function (nums) {
   function sort(nums, lo, hi) {
-      if(lo >= hi) return 
+    if(lo >= hi) return 
     let mid = Math.floor((lo + hi) / 2);
 
     sort(nums, lo, mid);

@@ -68,6 +68,7 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 [239.滑动窗口最大值](./src/239.sliding-window-maximum.js) [地址](https://leetcode.cn/problems/sliding-window-maximum/submissions/) 提示：滑动窗口+单调队列
 [78.最小覆盖子串](./src/76.minimum-window-substring.js) [地址]() 提示：map记录字符次数 用window表示当前窗口内字符的出现次数
 [438. 找到字符串中所有字母异位词](./src/438.%E6%89%BE%E5%88%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E6%89%80%E6%9C%89%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.js) [地址](https://leetcode.cn/problems/find-all-anagrams-in-a-string/submissions/) 提示：78最小覆盖子串变种，只需转换减小窗口条件
+[1004. 最大连续1的个数 III](./src/https://leetcode.cn/problems/max-consecutive-ones-iii/submissions/) 提示：题意转化为是否存在最长子数组，最多能容纳k个0
 
 前缀和
 [560.和为 k 的子数组](./src/560.subarray-sum-equals-k.js) 提示：前缀和，时间复杂度关系可以找差在前缀和中出现的次数
@@ -160,7 +161,7 @@ dfs
 [84. 柱状图中最大的矩形](./src/84.largest-rectangle-in-histogram.js) 提示：单调栈 + 哨兵
 [85. 最大矩形](./src/85.%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2.js) 提示：单调栈，84题的变种
 [739. 每日温度](./src/739.%E6%AF%8F%E6%97%A5%E6%B8%A9%E5%BA%A6.js) 提示：单调栈
-[503. 下一个更大元素 II](./src/503.next-greater-element-ii.js) 提示：单调栈，数组*2
+[503. 下一个更大元素 II](./src/503.next-greater-element-ii.js) 提示：单调栈，循环遍历，数组*2
 
 图
 [207. 课程表](./src/207.course-schedule.js) 提示：图

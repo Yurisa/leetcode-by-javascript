@@ -118,3 +118,23 @@ var lengthOfLongestSubstring = function (s) {
   }
   return ans;
 };
+
+var lengthOfLongestSubstring = function (s) {
+  let l = 0;
+  let r = 0;
+  const n = s.length;
+  let ans = 0;
+  const set = new Set();
+  while (r < n) {
+    const c = s[r];
+    while (set.has(c)) {
+      set.delete(s[l]);
+      l++;
+    }
+    ans = Math.max(ans, r - l + 1);
+
+    set.add(c);
+    r++;
+  }
+  return ans;
+};
