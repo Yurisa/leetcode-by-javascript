@@ -163,6 +163,7 @@ dfs
 
 栈
 [71. 简化路径](./src/71.simplify-path.js) 提示： 栈
+[227. 基本计算器 II](./src/227.basic-calculator-ii.js) 提示：栈
 [84. 柱状图中最大的矩形](./src/84.largest-rectangle-in-histogram.js) 提示：单调栈 + 哨兵
 [85. 最大矩形](./src/85.%E6%9C%80%E5%A4%A7%E7%9F%A9%E5%BD%A2.js) 提示：单调栈，84题的变种
 [739. 每日温度](./src/739.%E6%AF%8F%E6%97%A5%E6%B8%A9%E5%BA%A6.js) 提示：单调栈
