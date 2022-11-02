@@ -110,7 +110,6 @@ var findKthLargest = function (nums, k) {
 
 function partition(nums, lo, hi) {
   let part = nums[lo];
-
   let i = lo + 1;
   let j = hi;
 
@@ -136,3 +135,51 @@ function swap(nums, i, j) {
   nums[i] = temp;
 }
 // @lc code=end
+
+// 第n遍刷题
+/**
+ * @param {number[]} nums
+ * @param {number} k
+ * @return {number}
+ */
+ var findKthLargest = function (nums, k) {
+  const n = nums.length;
+  k = n - k;
+  let l = 0;
+  let r = n - 1;
+
+  while (l <= r) {
+    let p = partition(nums, l, r);
+    if (p < k) {
+      l = p + 1;
+    } else if (p > k) {
+      r = p - 1;
+    } else {
+      return nums[p]
+    }
+  }
+  return -1
+};
+
+function partition(nums, lo, hi) {
+  let p = nums[lo];
+  let l = lo + 1;
+  let r = hi;
+  while (l <= r) {
+    while (l < hi && nums[l] <= p) {
+      l++;
+    }
+    while (r > lo && nums[r] > p) {
+      r--;
+    }
+    if (l >= r) break;
+    swap(nums, l, r);
+  }
+  swap(nums, lo, r);
+  return r
+}
+
+function swap(nums, i, j) {
+  [nums[i], nums[j]] = [nums[j], nums[i]];
+}
+
