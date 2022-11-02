@@ -65,10 +65,11 @@ https://leetcode.cn/problems/validate-ip-address/solution/by-jingzhi-2-xovn/
 滑动窗口 [学习参考地址](https://leetcode.cn/problems/minimum-window-substring/solution/by-flix-1kac/)
 [3.无重复字符的最长子串](./src/3.longest-substring-without-repeating-characters.js) 提示：滑动窗口
 [187. 重复的DNA序列](./src/187.repeated-dna-sequences.js) [地址](https://leetcode.cn/problems/repeated-dna-sequences/submissions/) 提示：滑动窗口 + hash表
+[209. 长度最小的子数组](./src/209.minimum-size-subarray-sum.js) [地址](https://leetcode.cn/problems/minimum-size-subarray-sum/submissions/) 提示：滑动窗口
 [239.滑动窗口最大值](./src/239.sliding-window-maximum.js) [地址](https://leetcode.cn/problems/sliding-window-maximum/submissions/) 提示：滑动窗口+单调队列
 [78.最小覆盖子串](./src/76.minimum-window-substring.js) [地址]() 提示：map记录字符次数 用window表示当前窗口内字符的出现次数
 [438. 找到字符串中所有字母异位词](./src/438.%E6%89%BE%E5%88%B0%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E6%89%80%E6%9C%89%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.js) [地址](https://leetcode.cn/problems/find-all-anagrams-in-a-string/submissions/) 提示：78最小覆盖子串变种，只需转换减小窗口条件
-[1004. 最大连续1的个数 III](./src/https://leetcode.cn/problems/max-consecutive-ones-iii/submissions/) 提示：题意转化为是否存在最长子数组，最多能容纳k个0
+[1004. 最大连续1的个数 III](./src/1004.max-consecutive-ones-iii.js) [地址](https://leetcode.cn/problems/max-consecutive-ones-iii/submissions/) 提示：题意转化为是否存在最长子数组，最多能容纳k个0
 
 前缀和
 [560.和为 k 的子数组](./src/560.subarray-sum-equals-k.js) 提示：前缀和，时间复杂度关系可以找差在前缀和中出现的次数
@@ -110,8 +111,9 @@ dfs
 [16.最接近的三数之和](./src/16.3-sum-closest.js) 提示：固定首位，双指针
 [88.合并两个有序数组](./src/88.merge-sorted-array.js) 提示：从末尾开始遍历
 [18. 四数之和](./src/18.4-sum.js) 提示：确定两个数双指针，注意过滤相等的情况
+[1089.复写零](./src/1089.duplicate-zeros.js) [地址](https://leetcode.cn/problems/duplicate-zeros/submissions/) 提示：双指针
 
-[54.螺旋矩阵](./src/54.spiral-matrix.js) 提示：四个指针遍历
+[54.螺旋矩阵](./src/54.spiral-matrix.js) [地址[]()](https://leetcode.cn/problems/spiral-matrix/submissions/) 提示：上下左右四个指针遍历
 [快速排序]()
 [归并排序]()
 [冒泡排序]
@@ -175,4 +177,5 @@ dfs
 [343. 整数拆分](./src/343.%E6%95%B4%E6%95%B0%E6%8B%86%E5%88%86.js) 提示：判断余数分别为1，2，0的情况
 [470. 用 Rand7() 实现 Rand10()](./src/470.%E7%94%A8-rand-7-%E5%AE%9E%E7%8E%B0-rand-10.js) 提示：大范围的不断调用即可
 [860. 柠檬水找零](./src/860.%E6%9F%A0%E6%AA%AC%E6%B0%B4%E6%89%BE%E9%9B%B6.js) 提示：记录零钱5和10的数目
+
 

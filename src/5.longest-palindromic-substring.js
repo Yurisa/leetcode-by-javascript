@@ -33,4 +33,35 @@ var longestPalindrome = function (s) {
   }
   return ans;
 };
-// @lc code=end
+
+// 中心扩散法
+var longestPalindrome = function (s) {
+  const n = s.length;
+  let max = 0;
+  let len = 1;
+  let start = -1;
+  for (let i = 0; i < n; i++) {
+    const c = s[i];
+    let l = i - 1;
+    let r = i + 1;
+    while (l >= 0 && s[l] === c) {
+      l--;
+      len++;
+    }
+    while (r < n && s[r] === c) {
+      r++;
+      len++;
+    }
+    while (s[l] === s[r] && l >= 0 && r < n) {
+      len = len + 2;
+      l--;
+      r++;
+    }
+    if (len > max) {
+      max = len;
+      start = l;
+    }
+    len = 1;
+  }
+  return s.substr(start + 1, max);
+};
